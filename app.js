@@ -135,8 +135,8 @@ function renderActivityRow(item, dayNum, idx, cityColor) {
       <div class="activity-meta">
         ${tagHtml}${confirmedHtml}
         <span class="vote-btns">
-          <button class="vote-btn" data-day="${dayNum}" data-idx="${idx}" data-dir="up"   title="J'aime!">👍</button>
-          <button class="vote-btn" data-day="${dayNum}" data-idx="${idx}" data-dir="down" title="Pas fan">👎</button>
+          <button type="button" name="vote-up-${dayNum}-${idx}"   class="vote-btn" data-day="${dayNum}" data-idx="${idx}" data-dir="up"   title="J'aime!">👍</button>
+          <button type="button" name="vote-down-${dayNum}-${idx}" class="vote-btn" data-day="${dayNum}" data-idx="${idx}" data-dir="down" title="Pas fan">👎</button>
         </span>
       </div>
     </div>
