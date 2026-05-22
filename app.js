@@ -19,7 +19,8 @@ async function init() {
     document.getElementById('skeleton').hidden = true;
     const banner = document.getElementById('error-banner');
     banner.hidden = false;
-    document.getElementById('error-msg').textContent = ' ' + err.message;
+    const stack = err.stack ? err.stack.split('\n').slice(0, 4).join(' | ') : '';
+    document.getElementById('error-msg').textContent = ` [${err.name}] ${err.message} — ${stack}`;
     console.error(err);
   }
 }
