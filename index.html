@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Japon 2026 — Famille</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+</head>
+<body>
+
+  <header class="app-header">
+    <h1>🗾 Japon 2026</h1>
+    <span class="traveler-count">8 voyageurs · 12–31 juillet</span>
+  </header>
+
+  <div id="skeleton" class="skeleton" aria-live="polite">
+    <div class="skeleton-bar"></div>
+    <div class="skeleton-bar short"></div>
+    <div class="skeleton-bar"></div>
+    <div class="skeleton-bar short"></div>
+  </div>
+
+  <div id="error-banner" class="error-banner" hidden>
+    <strong>Erreur de chargement</strong>
+    <span id="error-msg"></span>
+  </div>
+
+  <main id="main-content" hidden>
+    <div id="tab-agenda"    class="tab-panel"></div>
+    <div id="tab-maps"     class="tab-panel" hidden>
+      <div id="map-pills" class="map-pills"></div>
+      <div id="map-tokyo1"    class="city-map" hidden></div>
+      <div id="map-kyoto"     class="city-map" hidden></div>
+      <div id="map-hiroshima" class="city-map" hidden></div>
+      <div id="map-okinawa"   class="city-map" hidden></div>
+      <div id="map-tokyo2"    class="city-map" hidden></div>
+    </div>
+    <div id="tab-transport" class="tab-panel" hidden></div>
+    <div id="tab-checklist" class="tab-panel" hidden></div>
+  </main>
+
+  <nav class="bottom-nav" role="tablist">
+    <button class="nav-btn active" data-tab="agenda"    onclick="showTab('agenda')">
+      <span class="nav-icon">📅</span><span class="nav-label">Agenda</span>
+    </button>
+    <button class="nav-btn" data-tab="maps"       onclick="showTab('maps')">
+      <span class="nav-icon">📍</span><span class="nav-label">Cartes</span>
+    </button>
+    <button class="nav-btn" data-tab="transport"  onclick="showTab('transport')">
+      <span class="nav-icon">🚄</span><span class="nav-label">Transport</span>
+    </button>
+    <button class="nav-btn" data-tab="checklist"  onclick="showTab('checklist')">
+      <span class="nav-icon">✅</span><span class="nav-label">Checklist</span>
+    </button>
+  </nav>
+
+  <footer class="app-footer">
+    <span id="last-updated"></span>
+    <span>•</span>
+    <a href="japon_itineraire_2026.md" download>⬇️ Télécharger le MD</a>
+  </footer>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script type="module" src="app.js"></script>
+
+</body>
+</html>
