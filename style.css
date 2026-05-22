@@ -1,3 +1,6 @@
+/* Ensures HTML hidden attribute always wins over any CSS display property */
+[hidden] { display: none !important; }
+
 :root {
   --c-tokyo:     #C0392B;
   --c-kyoto:     #1D6E4F;
