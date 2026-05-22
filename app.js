@@ -6,12 +6,14 @@ let DATA = null;
 
 async function init() {
   const savedTab = localStorage.getItem('activeTab') ?? 'agenda';
+  let step = 'init';
   try {
-    DATA = await loadItinerary();
-    renderAgenda(DATA);
-    renderTransport(DATA);
-    renderChecklist(DATA);
-    updateFooter(DATA.config);
+    step = 'loadItinerary'; DATA = await loadItinerary();
+    step = 'renderAgenda';  renderAgenda(DATA);
+    step = 'renderTransport'; renderTransport(DATA);
+    step = 'renderChecklist'; renderChecklist(DATA);
+    step = 'updateFooter';  updateFooter(DATA.config);
+    step = 'showContent';
     document.getElementById('skeleton').hidden = true;
     document.getElementById('main-content').hidden = false;
     showTab(savedTab, false);
@@ -19,8 +21,8 @@ async function init() {
     document.getElementById('skeleton').hidden = true;
     const banner = document.getElementById('error-banner');
     banner.hidden = false;
-    document.getElementById('error-msg').textContent = ' ' + err.message;
-    console.error(err);
+    document.getElementById('error-msg').textContent = ` [${step}] ${err.name}: ${err.message}`;
+    console.error(`Error at step "${step}":`, err);
   }
 }
 
