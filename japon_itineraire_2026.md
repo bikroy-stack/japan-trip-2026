@@ -46,7 +46,7 @@ currency_rate_cad: 107
 | ✅ | Vol MM287 Peach | Ven. 24 juil. 16h55 | Confirmé! |
 | ✅ | Vol NH994 ANA | Mar. 28 juil. 10h10 | Confirmé! |
 | ⚠️ | **Musée Ghibli** | Mer. 15 juil. | Billets le **10 juin à 10h00 heure Tokyo** sur Lawson · 2 comptes nécessaires pour 8 pers · 1 000¥/adulte |
-| ⚠️ | **USJ Express Pass** | Mar. 21 juil. | Klook ou usj.co.jp · Nintendo World + HP · ~5 000–10 000¥/pers |
+| ✅ | **USJ Express Pass** | Mar. 21 juil. | Acheté ✅ · Nintendo World + HP · Fast Pass en main! |
 | ⚠️ | **Café Capybara Moffu** | Lun. 13 juil. | Réservation en ligne obligatoire · Slot 30 min · Jingumae 1-6-9, Harajuku |
 | ⚠️ | **Sumo Hirakuza Ginza** | Mar. 14 juil. | hirakuza.net |
 | ⚠️ | **Voiture de location Okinawa** | 24–28 juil. | 2 véhicules · 4 jours · Réserver maintenant |
@@ -142,7 +142,7 @@ currency_rate_cad: 107
 **Logement :** Higashiyama-ku → Kiyomizudera et Gion à pied!
 
 > ⚠️ **20 juillet = Marine Day (Umi no Hi)** — jour férié national, très achalandé. Partir tôt le matin partout.  
-> ⚠️ **21 juillet = USJ journée complète** — aucune autre activité.
+> ✅ **21 juillet = USJ journée complète** — Express Pass en main, aucune autre activité.
 
 ---
 
@@ -168,7 +168,7 @@ currency_rate_cad: 107
 
 ### Jour 7 — Samedi 18 juillet : Universal Studios Japan (Osaka)
 
-> ⚠️ Samedi en juillet = achalandé · **Express Pass Nintendo World + Harry Potter INDISPENSABLE** · Réserver Klook ou USJ officiel · Arriver à l'ouverture!
+> ✅ Express Pass Nintendo World + Harry Potter **acheté!** · Samedi en juillet = achalandé · Arriver à l'ouverture!
 
 | Heure | Activité |
 |-------|----------|
