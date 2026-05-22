@@ -19,8 +19,7 @@ async function init() {
     document.getElementById('skeleton').hidden = true;
     const banner = document.getElementById('error-banner');
     banner.hidden = false;
-    const stack = err.stack ? err.stack.split('\n').slice(0, 4).join(' | ') : '';
-    document.getElementById('error-msg').textContent = ` [${err.name}] ${err.message} — ${stack}`;
+    document.getElementById('error-msg').textContent = ' ' + err.message;
     console.error(err);
   }
 }
@@ -118,7 +117,7 @@ function renderDayCard(day, cityColor) {
     }
   }
 
-  html += `<textarea class="day-note" data-day="${day.num}" placeholder="📝 Notes du groupe…" rows="1"></textarea>`;
+  html += `<textarea class="day-note" name="note-${day.num}" id="note-${day.num}" data-day="${day.num}" placeholder="📝 Notes du groupe…" rows="1"></textarea>`;
   html += '</div>';
   return html;
 }
@@ -251,7 +250,7 @@ function renderChecklist(data) {
         ${item.date ? `<div class="checklist-date">📅 ${escHtml(item.date)}</div>` : ''}
         ${item.details ? `<div class="checklist-details">${escHtml(item.details)}</div>` : ''}
       </div>
-      <input type="checkbox" class="checklist-checkbox" data-slug="${slug}" ${done ? 'checked' : ''} title="Marquer comme fait">
+      <input type="checkbox" class="checklist-checkbox" name="check-${slug}" id="check-${slug}" data-slug="${slug}" ${done ? 'checked' : ''} title="Marquer comme fait">
     </div>`;
   }
 
