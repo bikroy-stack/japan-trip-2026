@@ -1,6 +1,7 @@
 // app.js
 import { loadItinerary } from './parser.js';
 import { initMaps, invalidateActiveMap } from './maps.js';
+import { initExplore, invalidateActiveExploreMap } from './explore.js';
 
 let DATA = null;
 
@@ -39,6 +40,13 @@ window.showTab = function showTab(tabId, save = true) {
       initMaps(DATA.mapLocations);
     }
     invalidateActiveMap();
+  }
+  if (tabId === 'explore') {
+    // Initialise the explorer (and its own map instances) lazily on first visit
+    if (DATA && !document.querySelector('#explore-pills .map-pill')) {
+      initExplore(DATA);
+    }
+    invalidateActiveExploreMap();
   }
   if (save) localStorage.setItem('activeTab', tabId);
 };

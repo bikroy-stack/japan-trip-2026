@@ -254,6 +254,62 @@ body {
 /* City maps */
 .city-map { height: 420px; border-radius: var(--radius); }
 
+/* Day pills (Explorer tab) */
+.day-pills {
+  display: flex;
+  gap: 6px;
+  padding: 0 0 10px;
+  overflow-x: auto;
+  scrollbar-width: none;
+}
+.day-pills::-webkit-scrollbar { display: none; }
+.day-pill {
+  flex-shrink: 0;
+  padding: 5px 12px;
+  border-radius: 16px;
+  border: 1px solid var(--c-mid);
+  background: white;
+  font-size: 12px;
+  font-weight: 700;
+  cursor: pointer;
+  color: #555;
+}
+.day-pill.active { background: var(--c-navy); color: white; border-color: var(--c-navy); }
+
+/* Route panel (Explorer tab) */
+.route-panel {
+  background: #FFFDF0;
+  border: 1px solid #F0C040;
+  border-radius: var(--radius);
+  padding: 10px 12px;
+  margin: 0 0 10px;
+  font-size: 12px;
+}
+.route-panel-title { font-weight: 700; margin-bottom: 4px; color: #665500; }
+.route-target { font-weight: 700; font-size: 13px; margin-bottom: 4px; }
+.route-step { color: #555; line-height: 1.6; padding: 2px 0; }
+.route-step-empty { color: #888; font-style: italic; }
+
+/* Activity list (Explorer tab) */
+.explore-list { margin-top: 4px; padding-bottom: 12px; }
+.explore-activity {
+  display: flex;
+  gap: 8px;
+  align-items: flex-start;
+  width: 100%;
+  text-align: left;
+  background: white;
+  border: 1px solid var(--c-mid);
+  border-radius: 8px;
+  padding: 8px 10px;
+  margin-bottom: 6px;
+  cursor: pointer;
+  font-family: inherit;
+  transition: border-color .15s, background .15s;
+}
+.explore-activity.active { border-color: var(--c-navy); background: #EDF2FF; }
+#tab-explore .day-tip { border-radius: var(--radius); margin-bottom: 10px; }
+
 /* Transport tab */
 .transport-section { margin-bottom: 20px; }
 .transport-section h2 {
@@ -376,7 +432,7 @@ body {
 
 /* Print */
 @media print {
-  .bottom-nav, .vote-btns, .day-note, .app-header, .app-footer, .map-pills { display: none; }
+  .bottom-nav, .vote-btns, .day-note, .app-header, .app-footer, .map-pills, .day-pills, .route-panel { display: none; }
   .tab-panel { display: block !important; }
   .day-card { break-inside: avoid; }
   .transport-row { background: #f5f5f5; }

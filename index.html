@@ -38,6 +38,20 @@
     </div>
     <div id="tab-transport" class="tab-panel" hidden></div>
     <div id="tab-checklist" class="tab-panel" hidden></div>
+    <div id="tab-explore"   class="tab-panel" hidden>
+      <div id="explore-pills" class="map-pills"></div>
+      <div id="explore-days" class="day-pills"></div>
+      <div id="explore-map-tokyo1"    class="city-map" hidden></div>
+      <div id="explore-map-kyoto"     class="city-map" hidden></div>
+      <div id="explore-map-hiroshima" class="city-map" hidden></div>
+      <div id="explore-map-okinawa"   class="city-map" hidden></div>
+      <div id="explore-map-tokyo2"    class="city-map" hidden></div>
+      <div id="explore-route" class="route-panel" hidden>
+        <div class="route-panel-title">🧭 Pour s'y rendre</div>
+        <div class="route-panel-body"></div>
+      </div>
+      <div id="explore-activities" class="explore-list"></div>
+    </div>
   </main>
 
   <nav class="bottom-nav" role="tablist">
@@ -52,6 +66,9 @@
     </button>
     <button type="button" name="nav-checklist" class="nav-btn" data-tab="checklist"  onclick="showTab('checklist')">
       <span class="nav-icon">✅</span><span class="nav-label">Checklist</span>
+    </button>
+    <button type="button" name="nav-explore"   class="nav-btn" data-tab="explore"    onclick="showTab('explore')">
+      <span class="nav-icon">🧭</span><span class="nav-label">Itinéraire</span>
     </button>
   </nav>
 

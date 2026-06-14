@@ -1,6 +1,6 @@
 // maps.js — Leaflet map, driven entirely by parsed MD locations
 
-const CITY_MAP_CONFIG = {
+export const CITY_MAP_CONFIG = {
   tokyo1:    { center: [35.69, 139.70], zoom: 12, label: 'Tokyo I' },
   kyoto:     { center: [35.00, 135.76], zoom: 12, label: 'Kyoto + Excursions' },
   hiroshima: { center: [34.36, 132.42], zoom: 11, label: 'Hiroshima + Miyajima' },
@@ -19,7 +19,7 @@ const TAG_COLORS = {
   fun: '#E65100', transport: '#546E7A', other: '#666',
 };
 
-const CITY_COLORS = {
+export const CITY_COLORS = {
   tokyo1: '#C0392B', kyoto: '#1D6E4F', hiroshima: '#B45309',
   okinawa: '#1565C0', tokyo2: '#C0392B',
 };
@@ -76,7 +76,7 @@ function showCityMap(cityId, mapLocations) {
 
   const cfg = CITY_MAP_CONFIG[cityId];
   const markers = mapLocations.get(cityId) ?? [];
-  _maps[cityId] = createCityMap(cityId, cfg, markers);
+  _maps[cityId] = createCityMap(`map-${cityId}`, cityId, cfg, markers);
   _activeMapId = cityId;
 }
 
@@ -86,8 +86,12 @@ export function invalidateActiveMap() {
   }
 }
 
-function createCityMap(cityId, cfg, markers) {
-  const map = L.map(`map-${cityId}`, { center: cfg.center, zoom: cfg.zoom });
+// Creates a Leaflet map bound to `containerId`. `cityId` is only used for
+// route/marker styling (city color). Returns the map instance with a
+// `_markerLayers` Map (marker name → L.Marker) attached for external use
+// (e.g. the Explorer tab panning to a marker and opening its popup).
+export function createCityMap(containerId, cityId, cfg, markers) {
+  const map = L.map(containerId, { center: cfg.center, zoom: cfg.zoom });
 
   L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
@@ -106,11 +110,14 @@ function createCityMap(cityId, cfg, markers) {
     }).addTo(map);
   }
 
+  const markerLayers = new Map();
   for (const marker of markers) {
-    L.marker([marker.lat, marker.lng], { icon: createMarkerIcon(marker) })
+    const layer = L.marker([marker.lat, marker.lng], { icon: createMarkerIcon(marker) })
       .addTo(map)
       .bindPopup(createPopupHTML(marker), { maxWidth: 240 });
+    markerLayers.set(marker.name, layer);
   }
+  map._markerLayers = markerLayers;
 
   return map;
 }
@@ -148,7 +155,7 @@ function createPopupHTML(marker) {
   </div>`;
 }
 
-function escHtml(s) {
+export function escHtml(s) {
   if (!s) return '';
   return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
 }
