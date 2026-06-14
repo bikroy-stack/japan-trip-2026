@@ -276,22 +276,17 @@ body {
 }
 .day-pill.active { background: var(--c-navy); color: white; border-color: var(--c-navy); }
 
-/* Route panel (Explorer tab) */
-.route-panel {
-  background: #FFFDF0;
-  border: 1px solid #F0C040;
-  border-radius: var(--radius);
-  padding: 10px 12px;
-  margin: 0 0 10px;
-  font-size: 12px;
+/* Explorer layout: stacked on mobile, two columns on desktop */
+.explore-layout {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
 }
-.route-panel-title { font-weight: 700; margin-bottom: 4px; color: #665500; }
-.route-target { font-weight: 700; font-size: 13px; margin-bottom: 4px; }
-.route-step { color: #555; line-height: 1.6; padding: 2px 0; }
-.route-step-empty { color: #888; font-style: italic; }
+.explore-main { flex: 1; min-width: 0; }
+.explore-side { flex: 1; min-width: 0; }
 
 /* Activity list (Explorer tab) */
-.explore-list { margin-top: 4px; padding-bottom: 12px; }
+.explore-list { margin-top: 10px; padding-bottom: 12px; }
 .explore-activity {
   display: flex;
   gap: 8px;
@@ -308,7 +303,23 @@ body {
   transition: border-color .15s, background .15s;
 }
 .explore-activity.active { border-color: var(--c-navy); background: #EDF2FF; }
-#tab-explore .day-tip { border-radius: var(--radius); margin-bottom: 10px; }
+
+/* Detail panel (Explorer tab, 2nd column on desktop) */
+.detail-panel {
+  background: white;
+  border: 1px solid var(--c-mid);
+  border-radius: var(--radius);
+  padding: 12px 14px;
+  font-size: 12px;
+}
+.detail-empty { color: #888; font-style: italic; font-size: 12px; }
+.detail-title { font-weight: 700; font-size: 14px; margin-bottom: 4px; }
+.detail-meta { display: flex; align-items: center; gap: 6px; color: #888; font-size: 11px; margin-bottom: 8px; }
+.detail-section { margin-top: 10px; }
+.detail-section h4 { font-size: 11px; font-weight: 700; color: #665500; text-transform: uppercase; margin-bottom: 4px; }
+.detail-tip { color: #665500; line-height: 1.6; }
+.route-step { color: #555; line-height: 1.6; padding: 2px 0; }
+.route-step-empty { color: #888; font-style: italic; }
 
 /* Transport tab */
 .transport-section { margin-bottom: 20px; }
@@ -428,11 +439,18 @@ body {
   .tab-panel { padding: 16px 24px 0; max-width: 900px; margin: 0 auto; }
   .app-header { padding: 12px 24px; }
   .map-pills { padding: 14px 0 10px; }
+
+  /* Explorer: side-by-side activity list + detail panel */
+  #tab-explore.tab-panel { max-width: 1100px; }
+  .explore-layout { flex-direction: row; align-items: flex-start; }
+  .explore-main { flex: 1.4; }
+  .explore-side { flex: 1; }
+  .detail-panel { position: sticky; top: 70px; }
 }
 
 /* Print */
 @media print {
-  .bottom-nav, .vote-btns, .day-note, .app-header, .app-footer, .map-pills, .day-pills, .route-panel { display: none; }
+  .bottom-nav, .vote-btns, .day-note, .app-header, .app-footer, .map-pills, .day-pills, .explore-side { display: none; }
   .tab-panel { display: block !important; }
   .day-card { break-inside: avoid; }
   .transport-row { background: #f5f5f5; }

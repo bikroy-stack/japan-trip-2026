@@ -93,8 +93,9 @@ export function invalidateActiveMap() {
 export function createCityMap(containerId, cityId, cfg, markers) {
   const map = L.map(containerId, { center: cfg.center, zoom: cfg.zoom });
 
-  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    attribution: '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+  // Esri World Street Map — bilingual (incl. English) labels, no API key required
+  L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}', {
+    attribution: 'Tiles &copy; Esri | Source: Esri, HERE, Garmin, FAO, NOAA, USGS &mdash; &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
     maxZoom: 18,
   }).addTo(map);
 

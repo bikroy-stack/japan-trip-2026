@@ -115,7 +115,7 @@ function selectDay(cityId, idx) {
   const day = days[idx];
   _currentDay = day;
   renderActivityList(day);
-  hideRoutePanel();
+  renderDetailPanel(day);
   fitMapToDay(cityId, day);
 }
 
@@ -123,10 +123,6 @@ function renderActivityList(day) {
   const container = document.getElementById('explore-activities');
   _currentDayActivities = [];
   let html = '';
-
-  if (day.tip) {
-    html += `<div class="day-tip">${escHtml(day.tip)}</div>`;
-  }
 
   let pendingTransports = [];
   for (const item of day.items) {
@@ -164,7 +160,7 @@ function selectActivity(idx) {
 
   const entry = _currentDayActivities[idx];
   if (!entry) return;
-  showRoutePanel(entry);
+  renderDetailPanel(_currentDay, entry);
 
   const marker = _currentDay && _markerIndex.get(`${_currentDay.num}::${entry.item.text}`);
   const map = _maps[_activeCityId];
@@ -175,34 +171,46 @@ function selectActivity(idx) {
   }
 }
 
-function showRoutePanel(entry) {
-  const panel = document.getElementById('explore-route');
-  const body = panel.querySelector('.route-panel-body');
-  const { item, transports } = entry;
-  const emoji = item.emoji ? `${item.emoji} ` : '';
+// Renders the detail side-panel: the selected activity's full info + route
+// to get there, plus the day's tip. With no `entry`, shows the day's tip
+// (if any) and a placeholder inviting the user to pick an activity.
+function renderDetailPanel(day, entry = null) {
+  const panel = document.getElementById('explore-detail');
+  let html = '';
 
-  let html = `<div class="route-target">${emoji}${escHtml(item.text)}</div>`;
-  if (transports.length) {
-    html += transports.map(t => {
-      const parts = [
-        t.icon,
-        t.duration,
-        t.route ? `<span class="transport-route">${escHtml(t.route)}</span>` : null,
-        t.cost ? `<span class="transport-cost">${escHtml(t.cost)}</span>` : null,
-      ].filter(Boolean);
-      return `<div class="route-step">${parts.join(' · ')}</div>`;
-    }).join('');
+  if (entry) {
+    const { item, transports } = entry;
+    const emoji = item.emoji ? `${item.emoji} ` : '';
+    const tagHtml = item.tag && item.tag !== 'other' ? `<span class="tag tag-${item.tag}">${item.tag}</span>` : '';
+    const confirmedHtml = item.confirmed ? '<span class="confirmed-badge">✅ Confirmé</span>' : '';
+
+    html += `<div class="detail-title">${emoji}${escHtml(item.text)}</div>`;
+    html += `<div class="detail-meta">${escHtml(item.time)} ${tagHtml}${confirmedHtml}</div>`;
+
+    html += `<div class="detail-section"><h4>🧭 Pour s'y rendre</h4>`;
+    if (transports.length) {
+      html += transports.map(t => {
+        const parts = [
+          t.icon,
+          t.duration,
+          t.route ? `<span class="transport-route">${escHtml(t.route)}</span>` : null,
+          t.cost ? `<span class="transport-cost">${escHtml(t.cost)}</span>` : null,
+        ].filter(Boolean);
+        return `<div class="route-step">${parts.join(' · ')}</div>`;
+      }).join('');
+    } else {
+      html += `<div class="route-step route-step-empty">Aucun trajet indiqué avant cette activité.</div>`;
+    }
+    html += `</div>`;
   } else {
-    html += `<div class="route-step route-step-empty">Aucun trajet indiqué avant cette activité.</div>`;
+    html += `<div class="detail-empty">👉 Choisis une activité pour voir le trajet et les détails.</div>`;
   }
 
-  body.innerHTML = html;
-  panel.hidden = false;
-}
+  if (day?.tip) {
+    html += `<div class="detail-section"><h4>💡 Conseil du jour</h4><p class="detail-tip">${escHtml(day.tip)}</p></div>`;
+  }
 
-function hideRoutePanel() {
-  const panel = document.getElementById('explore-route');
-  if (panel) panel.hidden = true;
+  panel.innerHTML = html;
 }
 
 function fitMapToDay(cityId, day) {
