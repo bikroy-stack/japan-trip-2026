@@ -252,8 +252,7 @@ body {
 .map-pill:not(.active) { opacity: .55; }
 
 /* City maps */
-.city-map { height: 420px; border-radius: var(--radius); display: none; }
-.city-map.visible { display: block; }
+.city-map { height: 420px; border-radius: var(--radius); }
 
 /* Transport tab */
 .transport-section { margin-bottom: 20px; }

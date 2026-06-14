@@ -45,11 +45,12 @@ currency_rate_cad: 107
 | ✅ | TeamLab Planets | Lun. 13 juil. 10h00 | Réservé! |
 | ✅ | Vol MM287 Peach | Ven. 24 juil. 16h55 | Confirmé! |
 | ✅ | Vol NH994 ANA | Mar. 28 juil. 10h10 | Confirmé! |
-| ⚠️ | **Musée Ghibli** | Mer. 15 juil. | Billets le **10 juin à 10h00 heure Tokyo** sur Lawson · 2 comptes nécessaires pour 8 pers · 1 000¥/adulte |
+| ✅ | **Musée Ghibli** | Mer. 15 juil. **14h00** | Confirmé! · 1 000¥/adulte |
+| ✅ | **Permis de Conduire International (IDP)** | Avant le départ | Obtenu à la CAA · Obligatoire pour tous les conducteurs Okinawa |
 | ✅ | **USJ Express Pass** | Mar. 21 juil. | Acheté ✅ · Nintendo World + HP · Fast Pass en main! |
 | ⚠️ | **Café Capybara Moffu** | Lun. 13 juil. | Réservation en ligne obligatoire · Slot 30 min · Jingumae 1-6-9, Harajuku |
 | ⚠️ | **Sumo Hirakuza Ginza** | Mar. 14 juil. | hirakuza.net |
-| ⚠️ | **Voiture de location Okinawa** | 24–28 juil. | 2 véhicules · 4 jours · Réserver maintenant |
+| ⚠️ | **Voiture de location Okinawa** | 24–28 juil. | 2 véhicules · 4 jours · Réserver maintenant (Aqua Kyara ou A.S Rent a Car) |
 | ⚠️ | **Bus Fujikyu → Kawaguchiko** | Mer. 29 juil. (si Plan A Fuji) | Si fuji-san.info ≥ 7 à 6h30 · ~1 750¥/pers AR |
 
 ---
@@ -71,56 +72,68 @@ currency_rate_cad: 107
 
 ---
 
-### Jour 2 — Lundi 13 juillet : TeamLab + Harajuku + Café Capybara
+### Jour 2 — Lundi 13 juillet : TeamLab + Harajuku + Café Capybara + Shibuya Crossing
 
-> ✅ TeamLab Planets billets réservés 10h00 · Café Capybara Moffu à 8 min à pied de Takeshita Street!
+> ✅ TeamLab Planets billets réservés 10h00 · Café Capybara Moffu (4.8★ / 3 687 avis) à **1 min à pied** de Takeshita Street — même bloc Jingumae 1-chome! · Shibuya Crossing en soirée
 
 | Heure | Activité |
 |-------|----------|
 | 09h00 | Départ logement |
-| — | 🚇 **50 min** · Seibu → Shinjuku → Yurakucho → Toyosu · ~520¥/pers |
-| 10h00 | 🎨 **TeamLab Planets** (Toyosu) — billets réservés ✅ |
+| — | 🚇 **55 min** · Nakai → Takadanobaba → Ikebukuro → Yurakucho Line → Toyosu · ~520¥/pers |
+| 10h00 | 🎨 **TeamLab Planets** (Toyosu) — billets réservés ✅ · visite ~2h30 |
 | 12h30 | 🍣 Déjeuner : sushi-train Toyosu |
-| — | 🚇 **45 min** · Yurikamome → Shimbashi → Ginza Line → Omotesando + 8 min marche · ~380¥/pers |
-| 14h30 | 🛍️ Takeshita Street Harajuku — crêpes, pop culture |
-| — | 🚶 **8 min à pied** · Takeshita Street → Café Capybara Moffu (même quartier Jingumae!) |
-| 16h30 | 🦔 **Café Capybara Moffu** (Jingumae) — réserver à l'avance! |
-| — | 🚶 **15 min à pied** · Jingumae → Shibuya |
-| 18h30 | 🍢 Carrefour Shibuya + dîner yakitori izakaya |
+| — | 🚇 **45 min** · Yurikamome → Shimbashi → Ginza Line → Omotesando + 12 min marche · ~380¥/pers |
+| 14h15 | 🛍️ Takeshita Street Harajuku — crêpes, mode, pop culture |
+| — | 🚶 **1 min à pied** · Takeshita Street → Café Capybara Moffu (même bloc, Jingumae 1-6-9!) |
+| 16h30 | 🦔 **Café Capybara Moffu** (Jingumae) — slot 30 min, réserver à l'avance! · Ouvert jusqu'à 20h |
+| — | 🚶 **15 min à pied** · Jingumae → Carrefour Shibuya (1,3 km) |
+| 17h15 | 🚦 **Carrefour de Shibuya** — traversée piétonne mythique, photos, ambiance nocturne |
+| 18h30 | 🍢 Dîner yakitori izakaya quartier Shibuya |
+| — | 🚇 **25 min** · Shibuya → Kamiochiai logement · ~220¥/pers |
 
 ---
 
-### Jour 3 — Mardi 14 juillet : Shinjuku Gyoen + Spectacle Sumo
+### Jour 3 — Mardi 14 juillet : Shinjuku Gyoen + Palais Impérial + Spectacle Sumo
+
+> Flux géographique logique : Shinjuku → Otemachi (Palais Impérial) → Ginza — tout sur la ligne Marunouchi en ligne droite!
 
 | Heure | Activité |
 |-------|----------|
 | 09h15 | Départ logement |
-| — | 🚶 **15 min à pied** · Kamiochiai → Shinjuku Gyoen |
-| 09h30 | 🌿 **Shinjuku Gyoen** — jardins nationaux, carpes koï |
-| 12h00 | 🍛 Déjeuner Shinjuku : curry japonais |
-| — | 🚇 **25 min** · Marunouchi Line → Ginza · ~210¥/pers |
-| 15h00 | 🏛️ Quartier Ginza — galeries, boutiques |
+| — | 🚶 **15 min à pied** · Kamiochiai → Shinjuku Gyoen (1,2 km) |
+| 09h30 | 🌿 **Shinjuku Gyoen** — jardins nationaux, carpes koï dans les étangs |
+| 11h30 | 🍛 Déjeuner Shinjuku : curry japonais |
+| — | 🚇 **20 min** · Marunouchi Line Shinjuku → Otemachi · ~210¥/pers |
+| 12h30 | 👑 **Palais Impérial de Tokyo** — Jardin Est Higashi-Gyoen (entrée gratuite!) |
+| 12h30 | 🐟 Douves du Palais Impérial — carpes koï dans les fossés historiques |
+| — | 🚶 **8 min à pied** · Palais Impérial → Otemachi Station |
+| — | 🚇 **10 min** · Marunouchi Line Otemachi → Ginza (2 arrêts) · ~180¥/pers |
+| 15h00 | 🏙️ Quartier Ginza — galeries d'art, boutiques, architecture |
 | 17h00 | 🏋️ **Spectacle Sumo Hirakuza Ginza** — réservation obligatoire! |
 | 19h30 | 🍱 Dîner inclus dans le spectacle |
 | — | 🚇 **30 min** · Ginza → Kamiochiai · ~230¥/pers |
 
 ---
 
-### Jour 4 — Mercredi 15 juillet : Musée Ghibli + Parc Inokashira
+### Jour 4 — Mercredi 15 juillet : Parc Inokashira + Musée Ghibli 14h00
 
-> ✅ Mercredi = Ghibli ouvert (fermé le mardi) · Billets à obtenir le 10 juin à 10h00 heure Tokyo sur Lawson!
+> ✅ Ghibli confirmé à **14h00** · Mercredi = Ghibli ouvert (fermé le mardi) · Ordre optimisé : Inokashira le matin (carpes koï, barques, Kichijoji) → 15 min à pied → Ghibli 14h00
 
 | Heure | Activité |
 |-------|----------|
-| 09h10 | Départ logement |
-| — | 🚇 **25 min** · JR Chuo Line → Mitaka Station · ~250¥/pers |
-| 10h00 | 🎬 **Musée Ghibli Mitaka** — film court exclusif, Neko Bus! |
-| — | 🚶 **15 min à pied** · Ghibli Museum → Parc Inokashira |
-| 13h00 | 🐟 **Pique-nique Parc Inokashira** — carpes koï dans le lac! |
-| 15h00 | 🚣 Location barques sur le lac |
-| — | 🚇 **25 min** · JR Chuo → retour logement · ~250¥/pers |
-| 17h30 | 🛍️ Shinjuku — shopping Don Quijote |
-| 19h00 | 🥩 Dîner : tonkatsu ou shabu-shabu |
+| 09h00 | Départ logement |
+| — | 🚇 **25 min** · JR Chuo Line → Kichijoji Station · ~230¥/pers |
+| 09h30 | 🐟 **Parc Inokashira** — carpes koï magnifiques dans le lac, ambiance matinale |
+| 10h30 | 🚣 Location barques sur le lac (moins de monde le matin!) |
+| 11h30 | 🛍️ Quartier Kichijoji — shopping, cafés |
+| 12h30 | 🍜 Déjeuner Kichijoji : excellente scène culinaire (ramen, soba, curry) |
+| — | 🚶 **15 min à pied** · Parc Inokashira → Musée Ghibli (1 km) |
+| 13h45 | Arrivée Ghibli — photos extérieur, Robot Géant sur le toit! |
+| 14h00 | 🎬 **Musée Ghibli Mitaka** ✅ — film court exclusif, Neko Bus, expositions ~2h30 |
+| 16h30 | Fin visite Ghibli |
+| — | 🚇 **25 min** · JR Chuo Line → Shinjuku · ~230¥/pers |
+| 17h00 | 🛍️ Shinjuku — shopping Don Quijote, Takashimaya |
+| 19h00 | 🥩 Dîner Shinjuku : tonkatsu ou shabu-shabu |
 
 ---
 
@@ -700,13 +713,16 @@ Couvre tram Hiroden + ferry Matsudai (Miyajima) + **-25% sur le téléphérique!
 |------|-----|-----|-------|------|-----|
 | Logement Kamiochiai | 35.7117 | 139.6824 | tokyo1 | — | logement |
 | TeamLab Planets | 35.6491 | 139.7898 | tokyo1 | 2 | fun |
-| Café Capybara Moffu | 35.6709 | 139.7057 | tokyo1 | 2 | fun |
 | Takeshita Street Harajuku | 35.6710 | 139.7052 | tokyo1 | 2 | fun |
+| Café Capybara Moffu | 35.6709 | 139.7057 | tokyo1 | 2 | fun |
 | Carrefour Shibuya | 35.6595 | 139.7005 | tokyo1 | 2 | fun |
 | Shinjuku Gyoen | 35.6851 | 139.7100 | tokyo1 | 3 | nature |
+| Palais Impérial de Tokyo | 35.6852 | 139.7585 | tokyo1 | 3 | culture |
+| Douves du Palais Impérial | 35.6839 | 139.7531 | tokyo1 | 3 | nature |
 | Sumo Hirakuza Ginza | 35.6734 | 139.7684 | tokyo1 | 3 | sport |
-| Musée Ghibli Mitaka | 35.6962 | 139.5704 | tokyo1 | 4 | anime |
 | Parc Inokashira | 35.7001 | 139.5773 | tokyo1 | 4 | nature |
+| Quartier Kichijoji | 35.7036 | 139.5798 | tokyo1 | 4 | food |
+| Musée Ghibli Mitaka | 35.6962 | 139.5704 | tokyo1 | 4 | anime |
 | Logement Higashiyama | 35.0115 | 135.7826 | kyoto | — | logement |
 | Fushimi Inari Taisha | 34.9677 | 135.7792 | kyoto | 6 | UNESCO |
 | Kiyomizudera | 34.9947 | 135.7847 | kyoto | 6 | UNESCO |

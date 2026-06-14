@@ -308,22 +308,28 @@ export function parseMapLocations(md) {
     if (!isLogement && dayNum && byNum.has(dayNum)) {
       const day = byNum.get(dayNum);
       tip = day.tip ?? null;
-      // Fuzzy match activity
+      // Fuzzy match activity — pick the item with the highest word-overlap score
       const nameWords = name.toLowerCase().split(/\s+/);
+      let bestScore = 0;
+      let bestIdx = -1;
       for (let i = 0; i < day.items.length; i++) {
         const item = day.items[i];
         if (item.type !== 'activity') continue;
         const combined = item.text.toLowerCase();
         const score = nameWords.filter(w => w.length > 3 && combined.includes(w)).length;
-        if (score > 0) {
-          activityText = item.text;
-          confirmed = item.confirmed;
-          // Look for transport row immediately before
-          if (i > 0 && day.items[i - 1].type === 'transport') {
-            const t = day.items[i - 1];
-            transportText = [t.icon, t.duration, t.route, t.cost].filter(Boolean).join(' · ');
-          }
-          break;
+        if (score > bestScore) {
+          bestScore = score;
+          bestIdx = i;
+        }
+      }
+      if (bestIdx !== -1) {
+        const item = day.items[bestIdx];
+        activityText = item.text;
+        confirmed = item.confirmed;
+        // Look for transport row immediately before
+        if (bestIdx > 0 && day.items[bestIdx - 1].type === 'transport') {
+          const t = day.items[bestIdx - 1];
+          transportText = [t.icon, t.duration, t.route, t.cost].filter(Boolean).join(' · ');
         }
       }
     }

@@ -58,11 +58,15 @@ function showCityMap(cityId, mapLocations) {
   });
 
   // Hide all map divs
-  document.querySelectorAll('.city-map').forEach(d => d.classList.remove('visible'));
+  document.querySelectorAll('.city-map').forEach(d => {
+    d.classList.remove('visible');
+    d.hidden = true;
+  });
 
   const mapDiv = document.getElementById(`map-${cityId}`);
   if (!mapDiv) return;
   mapDiv.classList.add('visible');
+  mapDiv.hidden = false;
 
   if (_maps[cityId]) {
     _maps[cityId].invalidateSize();
