@@ -709,42 +709,42 @@ Couvre tram Hiroden + ferry Matsudai (Miyajima) + **-25% sur le téléphérique!
 
 ## 📍 Coordonnées (pour la carte)
 
-| Lieu | Lat | Lng | Ville | Jour | Tag |
-|------|-----|-----|-------|------|-----|
-| Logement Kamiochiai | 35.7117 | 139.6824 | tokyo1 | — | logement |
-| TeamLab Planets | 35.6491 | 139.7898 | tokyo1 | 2 | fun |
-| Takeshita Street Harajuku | 35.6710 | 139.7052 | tokyo1 | 2 | fun |
-| Café Capybara Moffu | 35.6709 | 139.7057 | tokyo1 | 2 | fun |
-| Carrefour Shibuya | 35.6595 | 139.7005 | tokyo1 | 2 | fun |
-| Shinjuku Gyoen | 35.6851 | 139.7100 | tokyo1 | 3 | nature |
-| Palais Impérial de Tokyo | 35.6852 | 139.7585 | tokyo1 | 3 | culture |
-| Douves du Palais Impérial | 35.6839 | 139.7531 | tokyo1 | 3 | nature |
-| Sumo Hirakuza Ginza | 35.6734 | 139.7684 | tokyo1 | 3 | sport |
-| Parc Inokashira | 35.7001 | 139.5773 | tokyo1 | 4 | nature |
-| Quartier Kichijoji | 35.7036 | 139.5798 | tokyo1 | 4 | food |
-| Musée Ghibli Mitaka | 35.6962 | 139.5704 | tokyo1 | 4 | anime |
-| Logement Higashiyama | 35.0115 | 135.7826 | kyoto | — | logement |
-| Fushimi Inari Taisha | 34.9677 | 135.7792 | kyoto | 6 | UNESCO |
-| Kiyomizudera | 34.9947 | 135.7847 | kyoto | 6 | UNESCO |
-| Kinkaku-ji | 35.0394 | 135.7292 | kyoto | 7 | UNESCO |
-| Forêt de bambous Arashiyama | 35.0168 | 135.6713 | kyoto | 7 | nature |
-| Nara Park + Todai-ji | 34.6890 | 135.8398 | kyoto | 8 | UNESCO |
-| Château Nijo | 35.0141 | 135.7484 | kyoto | 9 | UNESCO |
-| Philosopher's Path | 35.0215 | 135.7942 | kyoto | 9 | nature |
-| Universal Studios Japan | 34.6657 | 135.4323 | kyoto | 10 | fun |
-| Logement Naka-ku Hiroshima | 34.3890 | 132.4580 | hiroshima | — | logement |
-| Dôme Genbaku | 34.3955 | 132.4534 | hiroshima | 11 | UNESCO |
-| Musée Mémorial de la Paix | 34.3953 | 132.4536 | hiroshima | 12 | culture |
-| Itsukushima Jinja Miyajima | 34.2960 | 132.3198 | hiroshima | 12 | UNESCO |
-| Aéroport Fukuoka | 33.5850 | 130.4510 | hiroshima | 13 | transport |
-| Logement Chatan Okinawa | 26.3190 | 127.7570 | okinawa | — | logement |
-| American Village Chatan | 26.3159 | 127.7540 | okinawa | 14 | fun |
-| Château Shuri | 26.2170 | 127.7195 | okinawa | 14 | UNESCO |
-| Cape Maeda Grotte Bleue | 26.4426 | 127.7739 | okinawa | 15 | nature |
-| Aquarium Churaumi | 26.6943 | 127.8780 | okinawa | 16 | fun |
-| Logement Kanda Tokyo II | 35.6981 | 139.7770 | tokyo2 | — | logement |
-| Zoo Ueno | 35.7160 | 139.7729 | tokyo2 | 18 | fun |
-| Senso-ji Asakusa | 35.7148 | 139.7967 | tokyo2 | 18 | UNESCO |
-| Akihabara | 35.6997 | 139.7713 | tokyo2 | 19 | anime |
-| Odaiba Gundam géant | 35.6245 | 139.7755 | tokyo2 | 19 | anime |
-| Kawaguchiko Mont Fuji | 35.5112 | 138.7523 | tokyo2 | 18 | nature |
+| Lieu | Lat | Lng | Ville | Jour | Tag | Wiki | Top5 |
+|------|-----|-----|-------|------|-----|------|------|
+| Logement Kamiochiai | 35.7117 | 139.6824 | tokyo1 | — | logement | — | — |
+| TeamLab Planets | 35.6491 | 139.7898 | tokyo1 | 2 | fun | teamLab Planets | Marcher pieds nus dans l'eau lumineuse; Admirer les hologrammes de fleurs géantes; Se perdre dans la salle des miroirs infinis; Explorer le jardin de mousse lumineux; Acheter un souvenir à la boutique TeamLab |
+| Takeshita Street Harajuku | 35.6710 | 139.7052 | tokyo1 | 2 | fun | Takeshita Street | Goûter une crêpe géante colorée; Chiner dans les boutiques de mode kawaii; Repérer les cosplayers du dimanche; Essayer un thé bulle ou une glace arc-en-ciel; Explorer les petites ruelles autour de Harajuku |
+| Café Capybara Moffu | 35.6709 | 139.7057 | tokyo1 | 2 | fun | — | Caresser et nourrir les capybaras; Prendre des photos avec les animaux; Commander un café à thème animal; Observer les autres petits mammifères du café; Acheter une peluche capybara en souvenir |
+| Carrefour Shibuya | 35.6595 | 139.7005 | tokyo1 | 2 | fun | Shibuya Crossing | Traverser le passage piéton le plus fréquenté du monde; Admirer la vue depuis le Shibuya Sky; Voir la statue du chien Hachiko; Faire du shopping dans le quartier de Shibuya; Prendre une photo de nuit avec les néons |
+| Shinjuku Gyoen | 35.6851 | 139.7100 | tokyo1 | 3 | nature | Shinjuku Gyoen National Garden | Pique-niquer sous les arbres du jardin; Admirer le jardin japonais traditionnel; Visiter la serre tropicale; Se promener dans le jardin à l'anglaise; Profiter du calme loin de l'agitation de Shinjuku |
+| Palais Impérial de Tokyo | 35.6852 | 139.7585 | tokyo1 | 3 | culture | Tokyo Imperial Palace | Se promener dans les jardins de l'Est du palais; Admirer les murs et douves historiques; Voir le pont Nijubashi; Découvrir l'architecture du palais impérial; Apprendre l'histoire de la famille impériale |
+| Douves du Palais Impérial | 35.6839 | 139.7531 | tokyo1 | 3 | nature | Tokyo Imperial Palace | Faire une promenade autour des douves; Observer les cygnes et oiseaux d'eau; Admirer les murs en pierre du château d'Edo; Profiter d'une balade à vélo le dimanche; Prendre des photos des tours de guet |
+| Sumo Hirakuza Ginza | 35.6734 | 139.7684 | tokyo1 | 3 | sport | — | Assister à une démonstration de sumo; Découvrir les techniques et règles du sumo; Voir des lutteurs s'entraîner de près; Poser pour une photo avec un lutteur; Déguster une collation traditionnelle sur place |
+| Parc Inokashira | 35.7001 | 139.5773 | tokyo1 | 4 | nature | Inokashira Park | Faire du pédalo en forme de cygne sur l'étang; Nourrir les carpes koï; Se promener dans la forêt du parc; Visiter le petit zoo du parc; Pique-niquer près de l'eau |
+| Quartier Kichijoji | 35.7036 | 139.5798 | tokyo1 | 4 | food | Kichijōji | Flâner dans les petites rues commerçantes; Déguster un ramen ou une gyoza locale; Explorer le marché couvert Harmonica Yokocho; Faire du shopping dans des boutiques vintage; Goûter une pâtisserie japonaise |
+| Musée Ghibli Mitaka | 35.6962 | 139.5704 | tokyo1 | 4 | anime | Ghibli Museum | Découvrir les décors des films du Studio Ghibli; Monter voir le robot géant sur le toit; Regarder un court-métrage exclusif au cinéma du musée; Explorer la bibliothèque et les expositions d'animation; Acheter des souvenirs uniques à la boutique |
+| Logement Higashiyama | 35.0115 | 135.7826 | kyoto | — | logement | — | — |
+| Fushimi Inari Taisha | 34.9677 | 135.7792 | kyoto | 6 | UNESCO | Fushimi Inari-taisha | Marcher sous les milliers de torii rouges; Grimper jusqu'au sommet de la montagne Inari; Repérer les statues de renards (kitsune); Acheter un omikuji (oracle écrit); Prendre des photos dans le tunnel de torii |
+| Kiyomizudera | 34.9947 | 135.7847 | kyoto | 6 | UNESCO | Kiyomizu-dera | Admirer la vue depuis la terrasse en bois; Boire l'eau de la cascade Otowa; Se promener dans le quartier historique de Sannenzaka; Visiter le sanctuaire Jishu dédié à l'amour; Voir le temple illuminé le soir (selon saison) |
+| Kinkaku-ji | 35.0394 | 135.7292 | kyoto | 7 | UNESCO | Kinkaku-ji | Admirer le pavillon d'or se refléter dans l'étang; Se promener dans les jardins zen; Prendre une photo depuis le point de vue classique; Visiter le petit temple et jardin de thé; Acheter un porte-bonheur au sanctuaire |
+| Forêt de bambous Arashiyama | 35.0168 | 135.6713 | kyoto | 7 | nature | Arashiyama Bamboo Grove | Marcher dans l'allée de bambous géants; Visiter le temple Tenryu-ji voisin; Prendre le petit train Sagano Romantic; Faire une balade en bateau sur la rivière Hozu; Croiser des singes au parc Iwatayama |
+| Nara Park + Todai-ji | 34.6890 | 135.8398 | kyoto | 8 | UNESCO | Tōdai-ji | Nourrir les cerfs sacrés en liberté; Admirer le grand Bouddha du Todai-ji; Visiter le sanctuaire Kasuga Taisha; Se promener dans le parc parmi les lanternes de pierre; Goûter des mochis traditionnels de Nara |
+| Château Nijo | 35.0141 | 135.7484 | kyoto | 9 | UNESCO | Nijō Castle | Marcher sur les célèbres planchers chanteurs (nightingale floor); Admirer les peintures sur paravents anciens; Se promener dans les jardins du château; Découvrir l'histoire des shoguns Tokugawa; Observer les douves et remparts du château |
+| Philosopher's Path | 35.0215 | 135.7942 | kyoto | 9 | nature | Philosopher's Path | Se promener le long du canal bordé de cerisiers; Visiter de petits temples cachés sur le chemin; S'arrêter dans un café avec vue sur le canal; Acheter de l'artisanat dans les petites boutiques; Rejoindre le temple Ginkaku-ji au bout du chemin |
+| Universal Studios Japan | 34.6657 | 135.4323 | kyoto | 10 | fun | Universal Studios Japan | Découvrir le monde de Super Nintendo World; Faire le grand huit de Hollywood Dream; Visiter le quartier de Harry Potter; Voir un spectacle ou une parade; Goûter une friandise à thème (donut Mario, etc.) |
+| Logement Naka-ku Hiroshima | 34.3890 | 132.4580 | hiroshima | — | logement | — | — |
+| Dôme Genbaku | 34.3955 | 132.4534 | hiroshima | 11 | UNESCO | Hiroshima Peace Memorial | Observer le dôme préservé en mémoire de la bombe; Se recueillir au monument de la paix; Voir le Monument des enfants et les grues en origami; Marcher dans le parc commémoratif de la paix; Lire les panneaux explicatifs historiques |
+| Musée Mémorial de la Paix | 34.3953 | 132.4536 | hiroshima | 12 | culture | Hiroshima Peace Memorial Museum | Découvrir les expositions sur la bombe atomique; Voir les objets et témoignages des survivants; Apprendre l'histoire de la reconstruction d'Hiroshima; Visiter le parc commémoratif attenant; Assister à un témoignage si disponible |
+| Itsukushima Jinja Miyajima | 34.2960 | 132.3198 | hiroshima | 12 | UNESCO | Itsukushima Shrine | Voir le célèbre torii flottant sur l'eau; Visiter le sanctuaire sur pilotis; Observer les daims en liberté sur l'île; Monter au mont Misen en téléphérique; Déguster des huîtres grillées et momiji manju |
+| Aéroport Fukuoka | 33.5850 | 130.4510 | hiroshima | 13 | transport | — | — |
+| Logement Chatan Okinawa | 26.3190 | 127.7570 | okinawa | — | logement | — | — |
+| American Village Chatan | 26.3159 | 127.7540 | okinawa | 14 | fun | Chatan, Okinawa | Faire du shopping dans les boutiques de style américain; Admirer la grande roue illuminée; Profiter de la plage à proximité; Dîner dans un restaurant avec vue sur l'océan; Se promener au coucher du soleil en bord de mer |
+| Château Shuri | 26.2170 | 127.7195 | okinawa | 14 | UNESCO | Shuri Castle | Découvrir l'architecture unique du royaume de Ryukyu; Admirer la porte principale Shureimon; Visiter les jardins et remparts du château; Apprendre l'histoire du royaume d'Okinawa; Profiter de la vue sur Naha depuis les hauteurs |
+| Cape Maeda Grotte Bleue | 26.4426 | 127.7739 | okinawa | 15 | nature | Cape Maeda | Faire du snorkeling dans la grotte bleue; Observer les poissons tropicaux colorés; Sauter depuis les rochers (pour les plus aventureux); Faire de la plongée sous-marine; Admirer les falaises et la vue sur l'océan |
+| Aquarium Churaumi | 26.6943 | 127.8780 | okinawa | 16 | fun | Okinawa Churaumi Aquarium | Admirer les requins-baleines dans le grand bassin Kuroshio; Observer les raies manta de près; Assister à un spectacle de dauphins; Découvrir les coraux et poissons tropicaux d'Okinawa; Pique-niquer dans le parc océanique attenant |
+| Logement Kanda Tokyo II | 35.6981 | 139.7770 | tokyo2 | — | logement | — | — |
+| Zoo Ueno | 35.7160 | 139.7729 | tokyo2 | 18 | fun | Ueno Zoo | Voir les pandas géants; Découvrir les animaux du pavillon nocturne; Se promener dans le parc d'Ueno voisin; Observer les ours polaires et tigres; Visiter l'aquarium et la mini-ferme pour enfants |
+| Senso-ji Asakusa | 35.7148 | 139.7967 | tokyo2 | 18 | UNESCO | Sensō-ji | Passer sous la grande porte Kaminarimon; Marcher dans la rue commerçante Nakamise; Tirer un omikuji (fortune) au temple; Admirer la pagode à cinq étages; Goûter des sucreries traditionnelles d'Asakusa |
+| Akihabara | 35.6997 | 139.7713 | tokyo2 | 19 | anime | Akihabara | Explorer les magasins de mangas et figurines; Visiter un maid café; Tester les bornes d'arcade rétro; Chercher des consoles et jeux vidéo vintage; Découvrir les boutiques d'électronique sur plusieurs étages |
+| Odaiba Gundam géant | 35.6245 | 139.7755 | tokyo2 | 19 | anime | Odaiba | Prendre une photo avec la statue grandeur réelle de Gundam; Visiter le centre commercial DiverCity Tokyo; Admirer la vue sur le Rainbow Bridge; Découvrir le musée Gundam Base; Se promener sur la plage artificielle d'Odaiba |
+| Kawaguchiko Mont Fuji | 35.5112 | 138.7523 | tokyo2 | 18 | nature | Lake Kawaguchi | Admirer le mont Fuji se refléter dans le lac; Faire un tour en bateau sur le lac Kawaguchi; Monter au mont Fuji Panorama Ropeway; Visiter le musée d'art Kubota Itchiku; Se promener dans le parc Oishi avec vue sur le Fuji |

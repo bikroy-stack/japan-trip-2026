@@ -8,6 +8,7 @@ import { CITY_MAP_CONFIG, CITY_COLORS, createCityMap, escHtml } from './maps.js'
 
 const _maps = {};
 let _activeCityId = null;
+const _wikiCache = new Map(); // wiki title -> summary JSON | null (failed/no thumbnail)
 
 let _DATA = null;
 let _markerIndex = null;       // `${dayNum}::${activityText}` -> marker
@@ -174,9 +175,12 @@ function selectActivity(idx) {
 // Renders the detail side-panel: the selected activity's full info + route
 // to get there, plus the day's tip. With no `entry`, shows the day's tip
 // (if any) and a placeholder inviting the user to pick an activity.
+// If a map marker is matched for the activity, also shows a "Top 5" list
+// and a representative photo (fetched lazily from Wikipedia).
 function renderDetailPanel(day, entry = null) {
   const panel = document.getElementById('explore-detail');
   let html = '';
+  let marker = null;
 
   if (entry) {
     const { item, transports } = entry;
@@ -202,6 +206,20 @@ function renderDetailPanel(day, entry = null) {
       html += `<div class="route-step route-step-empty">Aucun trajet indiqué avant cette activité.</div>`;
     }
     html += `</div>`;
+
+    marker = _currentDay && _markerIndex.get(`${_currentDay.num}::${item.text}`);
+
+    if (marker?.top5?.length) {
+      html += `<div class="detail-section"><h4>🏆 Top 5 à faire sur place</h4><ol class="detail-top5">`;
+      html += marker.top5.map(t => `<li>${escHtml(t)}</li>`).join('');
+      html += `</ol></div>`;
+    }
+
+    if (marker?.wiki) {
+      html += `<div class="detail-section detail-photo-section">
+        <div class="detail-photo-loading">📷 Chargement de la photo…</div>
+      </div>`;
+    }
   } else {
     html += `<div class="detail-empty">👉 Choisis une activité pour voir le trajet et les détails.</div>`;
   }
@@ -211,6 +229,37 @@ function renderDetailPanel(day, entry = null) {
   }
 
   panel.innerHTML = html;
+
+  if (marker?.wiki) {
+    const section = panel.querySelector('.detail-photo-section');
+    loadWikiPhoto(marker.wiki, section);
+  }
+}
+
+// Fetches a representative thumbnail for `title` from the Wikipedia REST
+// summary API (cached, CORS-enabled, no API key). `section` is the specific
+// DOM node to fill — if the panel has since re-rendered (node detached),
+// the result is discarded.
+async function loadWikiPhoto(title, section) {
+  let data = _wikiCache.get(title);
+  if (data === undefined) {
+    try {
+      const res = await fetch(`https://en.wikipedia.org/api/rest_v1/page/summary/${encodeURIComponent(title)}`);
+      data = res.ok ? await res.json() : null;
+    } catch {
+      data = null;
+    }
+    _wikiCache.set(title, data);
+  }
+
+  if (!section.isConnected) return;
+
+  const img = data?.thumbnail?.source;
+  if (img) {
+    section.innerHTML = `<img class="detail-photo" src="${img}" alt="${escHtml(data.title || title)}" loading="lazy">`;
+  } else {
+    section.remove();
+  }
 }
 
 function fitMapToDay(cityId, day) {

@@ -321,6 +321,17 @@ body {
 .route-step { color: #555; line-height: 1.6; padding: 2px 0; }
 .route-step-empty { color: #888; font-style: italic; }
 
+/* Top 5 list + photo (Explorer detail panel) */
+.detail-top5 { margin: 0; padding-left: 20px; color: #333; line-height: 1.6; }
+.detail-top5 li { margin-bottom: 2px; }
+.detail-photo-loading { color: #888; font-style: italic; font-size: 11px; }
+.detail-photo {
+  display: block;
+  width: 100%;
+  border-radius: 8px;
+  margin-top: 2px;
+}
+
 /* Transport tab */
 .transport-section { margin-bottom: 20px; }
 .transport-section h2 {

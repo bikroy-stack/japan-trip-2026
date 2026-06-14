@@ -296,6 +296,12 @@ export function parseMapLocations(md) {
     const cityId = (r[3] || '').trim();
     const dayNum = r[4] === '—' ? null : parseInt(r[4], 10);
     const tag    = (r[5] || 'other').trim();
+    const wikiRaw = (r[6] || '').trim();
+    const wiki   = (wikiRaw && wikiRaw !== '—') ? wikiRaw : null;
+    const top5Raw = (r[7] || '').trim();
+    const top5   = (top5Raw && top5Raw !== '—')
+      ? top5Raw.split(';').map(s => s.trim()).filter(Boolean)
+      : [];
 
     if (!name || isNaN(lat) || isNaN(lng)) continue;
 
@@ -334,7 +340,7 @@ export function parseMapLocations(md) {
       }
     }
 
-    const marker = { name, lat, lng, cityId, day: dayNum, tag, isLogement, activityText, transportText, confirmed, tip };
+    const marker = { name, lat, lng, cityId, day: dayNum, tag, isLogement, activityText, transportText, confirmed, tip, wiki, top5 };
 
     if (!byCity.has(cityId)) byCity.set(cityId, []);
     byCity.get(cityId).push(marker);
