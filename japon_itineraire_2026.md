@@ -47,10 +47,10 @@ currency_rate_cad: 107
 | ✅ | Vol NH994 ANA | Mar. 28 juil. 10h10 | Confirmé! |
 | ✅ | **Musée Ghibli** | Mer. 15 juil. **14h00** | Confirmé! · 1 000¥/adulte |
 | ✅ | **Permis de Conduire International (IDP)** | Avant le départ | Obtenu à la CAA · Obligatoire pour tous les conducteurs Okinawa |
-| ✅ | **USJ Express Pass** | Mar. 21 juil. | Acheté ✅ · Nintendo World + HP · Fast Pass en main! |
-| ⚠️ | **Café Capybara Moffu** | Lun. 13 juil. | Réservation en ligne obligatoire · Slot 30 min · Jingumae 1-6-9, Harajuku |
-| ⚠️ | **Sumo Hirakuza Ginza** | Mar. 14 juil. | hirakuza.net |
-| ⚠️ | **Voiture de location Okinawa** | 24–28 juil. | 2 véhicules · 4 jours · Réserver maintenant (Aqua Kyara ou A.S Rent a Car) |
+| ✅ | **USJ Express Pass** | Mar. 21 juil. | Confirmé! · Nintendo World + HP inclus |
+| ✅ | **Cappiness Shinjuku** (café capybara) | Lun. 13 juil. 17h15 | Confirmé! · Shinjuku · Slot 30 min |
+| ✅ | **Spectacle Sumo Shinjuku Club** | Mar. 14 juil. 17h30 | Billets achetés! · Shinjuku Sumo Club, 2-5-22 Okubo, Shinjuku · ~1h30 · Photo avec lutteurs incluse · MC bilingue · 4.8★ / 3 460 avis |
+| ✅ | **Voiture de location Okinawa** | 24–28 juil. | Confirmée! · 2 véhicules · 4 jours (24–28 juil.) |
 | ⚠️ | **Bus Fujikyu → Kawaguchiko** | Mer. 29 juil. (si Plan A Fuji) | Si fuji-san.info ≥ 7 à 6h30 · ~1 750¥/pers AR |
 
 ---
@@ -72,9 +72,9 @@ currency_rate_cad: 107
 
 ---
 
-### Jour 2 — Lundi 13 juillet : TeamLab + Harajuku + Café Capybara + Shibuya Crossing
+### Jour 2 — Lundi 13 juillet : TeamLab + Harajuku + Cappiness Shinjuku + Shibuya Crossing
 
-> ✅ TeamLab Planets billets réservés 10h00 · Café Capybara Moffu (4.8★ / 3 687 avis) à **1 min à pied** de Takeshita Street — même bloc Jingumae 1-chome! · Shibuya Crossing en soirée
+> ✅ TeamLab Planets billets réservés 10h00 · Cappiness Shinjuku (café capybara) confirmé 17h15 · Carrefour Shibuya en soirée · Tout se termine dans le secteur Shinjuku/Shibuya
 
 | Heure | Activité |
 |-------|----------|
@@ -84,18 +84,19 @@ currency_rate_cad: 107
 | 12h30 | 🍣 Déjeuner : sushi-train Toyosu |
 | — | 🚇 **45 min** · Yurikamome → Shimbashi → Ginza Line → Omotesando + 12 min marche · ~380¥/pers |
 | 14h15 | 🛍️ Takeshita Street Harajuku — crêpes, mode, pop culture |
-| — | 🚶 **1 min à pied** · Takeshita Street → Café Capybara Moffu (même bloc, Jingumae 1-6-9!) |
-| 16h30 | 🦔 **Café Capybara Moffu** (Jingumae) — slot 30 min, réserver à l'avance! · Ouvert jusqu'à 20h |
-| — | 🚶 **15 min à pied** · Jingumae → Carrefour Shibuya (1,3 km) |
-| 17h15 | 🚦 **Carrefour de Shibuya** — traversée piétonne mythique, photos, ambiance nocturne |
-| 18h30 | 🍢 Dîner yakitori izakaya quartier Shibuya |
+| — | 🚇 **10 min** · JR Yamanote Harajuku → Shinjuku · ~150¥/pers |
+| 16h30 | 🛍️ Shinjuku — shopping libre, Don Quijote, Kabukicho |
+| 17h15 | 🦔 **Cappiness Shinjuku** ✅ — café capybara, slot 30 min confirmé |
+| — | 🚇 **5 min** · JR Yamanote Shinjuku → Shibuya · ~150¥/pers |
+| 18h00 | 🚦 **Carrefour de Shibuya** — traversée piétonne mythique, photos! |
+| 19h00 | 🍢 Dîner yakitori izakaya quartier Shibuya |
 | — | 🚇 **25 min** · Shibuya → Kamiochiai logement · ~220¥/pers |
 
 ---
 
-### Jour 3 — Mardi 14 juillet : Shinjuku Gyoen + Palais Impérial + Spectacle Sumo
+### Jour 3 — Mardi 14 juillet : Shinjuku Gyoen + Palais Impérial + Spectacle Sumo Shinjuku
 
-> Flux géographique logique : Shinjuku → Otemachi (Palais Impérial) → Ginza — tout sur la ligne Marunouchi en ligne droite!
+> Tout se passe dans le secteur Shinjuku — le Sumo Club est à 15 min à pied du logement! Flux : Shinjuku Gyoen → Palais Impérial (Otemachi) → retour Shinjuku → Sumo 17h30 → Dîner Shinjuku
 
 | Heure | Activité |
 |-------|----------|
@@ -106,34 +107,65 @@ currency_rate_cad: 107
 | — | 🚇 **20 min** · Marunouchi Line Shinjuku → Otemachi · ~210¥/pers |
 | 12h30 | 👑 **Palais Impérial de Tokyo** — Jardin Est Higashi-Gyoen (entrée gratuite!) |
 | 12h30 | 🐟 Douves du Palais Impérial — carpes koï dans les fossés historiques |
-| — | 🚶 **8 min à pied** · Palais Impérial → Otemachi Station |
-| — | 🚇 **10 min** · Marunouchi Line Otemachi → Ginza (2 arrêts) · ~180¥/pers |
-| 15h00 | 🏙️ Quartier Ginza — galeries d'art, boutiques, architecture |
-| 17h00 | 🏋️ **Spectacle Sumo Hirakuza Ginza** — réservation obligatoire! |
-| 19h30 | 🍱 Dîner inclus dans le spectacle |
-| — | 🚇 **30 min** · Ginza → Kamiochiai · ~230¥/pers |
+| — | 🚇 **20 min** · Marunouchi Line Otemachi → Shinjuku · ~210¥/pers |
+| 14h30 | 🛍️ Shinjuku — shopping libre, repos logement (15 min à pied) |
+| — | 🚶 **15 min à pied** · Logement Kamiochiai → Shinjuku Sumo Club (Okubo) |
+| 17h30 | 🏋️ **Spectacle Sumo Shinjuku Club** ✅ billets achetés — matches, rituels, défi dans le ring! · ~1h30 |
+| 18h00 | 📸 Expérience photo avec les lutteurs (incluse dans les billets) |
+| 19h00 | Fin du spectacle |
+| — | 🚶 **10 min à pied** · Sumo Club → restaurants Shinjuku |
+| 19h15 | 🍜 Dîner Shinjuku — 3 options selon l'envie du groupe : |
+| 19h15 | ・**Omoide Yokocho** (Memory Lane) — ruelles yakitori mythiques, 5 min à pied de Shinjuku Station |
+| 19h15 | ・**Shabu-shabu Nabezo Shinjuku** — bouillon, viande, légumes à volonté, parfait pour les enfants |
+| 19h15 | ・**Ramen Fuunji** — meilleur tsukemen (ramen trempé) de Shinjuku |
+| — | 🚶 **15 min à pied** · Shinjuku → logement Kamiochiai |
 
 ---
 
-### Jour 4 — Mercredi 15 juillet : Parc Inokashira + Musée Ghibli 14h00
+### Jour 4 — Mercredi 15 juillet : GROUPE DIVISÉ — Nikko UNESCO / Musée Ghibli 14h00
 
-> ✅ Ghibli confirmé à **14h00** · Mercredi = Ghibli ouvert (fermé le mardi) · Ordre optimisé : Inokashira le matin (carpes koï, barques, Kichijoji) → 15 min à pied → Ghibli 14h00
+> Le groupe se sépare pour la journée et se retrouve pour le dîner à Shinjuku vers 19h!
+
+#### 🏔️ Groupe A — Nikko (UNESCO)
+
+> Nikko = Tosho-gu, sanctuaire shogunal classé UNESCO · Merveilles de la période Edo · Départ tôt depuis Asakusa (Tobu Nikko Line)
+
+| Heure | Activité |
+|-------|----------|
+| 07h30 | Départ logement |
+| — | 🚇 **40 min** · Kamiochiai → Asakusa (Oedo Line) · ~300¥/pers |
+| 08h20 | 🚂 **Train Tobu Nikko** Express depuis Asakusa (Tobu Asakusa Station) · ~1 320¥/pers |
+| — | 🚂 **~2h00** · Tobu Nikko Express Asakusa → Tobu Nikko Station |
+| 10h20 | Arrivée Nikko |
+| — | 🚌 **10 min** · Bus local → Shinkyo Bridge + Tosho-gu area |
+| 10h30 | 🌉 Shinkyo Bridge — pont vermillon sacré sur la rivière Daiya |
+| 11h00 | ⛩️ **Tosho-gu** (UNESCO) — sanctuaire du shogun Tokugawa Ieyasu, Yomeimon Gate, 5 000 sculptures! |
+| 12h30 | 🍱 Déjeuner Nikko : **yuba ryori** (peau de tofu, spécialité locale) |
+| 14h00 | 🏯 Futarasan Shrine + Rinno-ji temple |
+| 15h30 | 🚌 Bus retour → Tobu Nikko Station |
+| 16h00 | 🚂 Train retour → Tokyo Asakusa (~2h00) · ~1 320¥/pers |
+| 18h00 | Arrivée Tokyo → Shinjuku pour rejoindre l'autre groupe |
+
+#### 🎬 Groupe B — Musée Ghibli + Parc Inokashira
+
+> ✅ Ghibli confirmé à **14h00** · Mercredi = ouvert · Inokashira le matin (carpes koï, barques)
 
 | Heure | Activité |
 |-------|----------|
 | 09h00 | Départ logement |
 | — | 🚇 **25 min** · JR Chuo Line → Kichijoji Station · ~230¥/pers |
-| 09h30 | 🐟 **Parc Inokashira** — carpes koï magnifiques dans le lac, ambiance matinale |
-| 10h30 | 🚣 Location barques sur le lac (moins de monde le matin!) |
-| 11h30 | 🛍️ Quartier Kichijoji — shopping, cafés |
-| 12h30 | 🍜 Déjeuner Kichijoji : excellente scène culinaire (ramen, soba, curry) |
-| — | 🚶 **15 min à pied** · Parc Inokashira → Musée Ghibli (1 km) |
-| 13h45 | Arrivée Ghibli — photos extérieur, Robot Géant sur le toit! |
-| 14h00 | 🎬 **Musée Ghibli Mitaka** ✅ — film court exclusif, Neko Bus, expositions ~2h30 |
-| 16h30 | Fin visite Ghibli |
-| — | 🚇 **25 min** · JR Chuo Line → Shinjuku · ~230¥/pers |
-| 17h00 | 🛍️ Shinjuku — shopping Don Quijote, Takashimaya |
-| 19h00 | 🥩 Dîner Shinjuku : tonkatsu ou shabu-shabu |
+| 09h30 | 🐟 **Parc Inokashira** — carpes koï dans le lac, barques |
+| 12h30 | 🍜 Déjeuner Kichijoji |
+| — | 🚶 **15 min à pied** · Inokashira → Musée Ghibli |
+| 14h00 | 🎬 **Musée Ghibli Mitaka** ✅ — film exclusif, Neko Bus, expositions ~2h30 |
+| 16h30 | Fin visite |
+| — | 🚇 **25 min** · JR Chuo → Shinjuku · ~230¥/pers |
+
+#### 🍜 Réunion des deux groupes — Dîner Shinjuku ~19h00
+
+| Heure | Activité |
+|-------|----------|
+| 19h00 | 🥩 Dîner Shinjuku : tonkatsu, shabu-shabu ou ramen — les deux groupes partagent leurs aventures de la journée! |
 
 ---
 
@@ -155,33 +187,40 @@ currency_rate_cad: 107
 **Logement :** Higashiyama-ku → Kiyomizudera et Gion à pied!
 
 > ⚠️ **20 juillet = Marine Day (Umi no Hi)** — jour férié national, très achalandé. Partir tôt le matin partout.  
-> ✅ **21 juillet = USJ journée complète** — Express Pass en main, aucune autre activité.
+> ⚠️ **21 juillet = USJ journée complète** — aucune autre activité.
 
 ---
 
-### Jour 6 — Vendredi 17 juillet : Fushimi Inari + Nishiki Market + Kiyomizudera
+### Jour 6 — Vendredi 17 juillet : 🎏 Yamaboko Junko (Gion Matsuri) + Fushimi Inari + Nishiki Market + Kiyomizudera
+
+> 🎉 **Chance exceptionnelle!** Le 17 juillet est le jour de la grande parade **Yamaboko Junko** du Gion Matsuri — le festival le plus célèbre du Japon! Flottes (yamaboko) géantes défilent dans le centre de Kyoto de 9h à 11h30. Nishiki Market est à 5 min à pied de l'itinéraire de la parade!  
+> ⚠️ Arriver tôt pour sécuriser une bonne place le long de Shijo-dori (avant 8h30) · Le centre de Kyoto sera très animé toute la journée
 
 | Heure | Activité |
 |-------|----------|
 | 06h00 | Départ logement |
-| — | 🚇 **30 min** · Keihan → Fushimi-Inari Station · ~280¥/pers |
-| 06h30 | ⛩️ **Fushimi Inari Taisha** (UNESCO) — tunnels torii, aller TÔT! |
-| — | 🚇 **30 min** · Keihan retour → logement · ~280¥/pers |
-| 09h30 | 🧆 Petit-déjeuner tofu ryori Higashiyama |
-| 11h00 | 🏘️ Ninenzaka & Sannenzaka (à pied du logement) |
-| — | 🚌 **20 min** · Bus → Nishiki Market · ~250¥/pers |
-| 13h00 | 🥡 **Nishiki Market** — mochi, takoyaki, tsukemono |
+| — | 🚇 **30 min** · Keihan depuis Gion-Shijo → Fushimi-Inari Station · ~280¥/pers |
+| 06h30 | ⛩️ **Fushimi Inari Taisha** (UNESCO) — tunnels torii TÔT, avant la foule · 1h30 de visite |
+| — | 🚇 **25 min** · Keihan → Shijo Station (centre Kyoto) · ~280¥/pers |
+| 08h15 | 🎏 Sécuriser une place le long de **Shijo-dori / Karasuma-dori** pour la parade |
+| 09h00 | 🎏 **Yamaboko Junko — Gion Matsuri** — défilé des flottes géantes (yamaboko) dans le centre de Kyoto · jusqu'à 11h30 |
+| 11h30 | Fin du défilé |
+| — | 🚶 **5 min à pied** · Shijo-Karasuma → Nishiki Market |
+| 12h00 | 🥡 **Nishiki Market** — mochi, takoyaki, tsukemono, dégustations |
+| 13h00 | 🍱 Déjeuner Nakagyo : kaiseki ou bento |
 | — | 🚌 **15 min bus + 10 min marche** → Kiyomizu-michi |
-| 15h30 | 🏯 **Kiyomizu-dera** (UNESCO) — vue panoramique sur Kyoto |
-| — | 🚶 **10 min à pied** · Kiyomizudera → Gion Hanamikoji |
-| 18h30 | 🏮 **Gion** — rues Hanamikoji, lanternes, geishas |
-| 19h30 | 🍵 Dîner : obanzai kyotoïte |
+| 15h00 | 🏯 **Kiyomizu-dera** (UNESCO) — vue panoramique sur Kyoto |
+| — | 🚶 **10 min à pied** · Kiyomizudera → Ninenzaka |
+| 16h30 | 🏘️ Ninenzaka & Sannenzaka — rues pavées historiques |
+| — | 🚶 **10 min à pied** → Gion |
+| 18h00 | 🏮 **Gion** — rues Hanamikoji, lanternes · soir de Gion Matsuri = atmosphère magique! |
+| 19h30 | 🍵 Dîner : obanzai kyotoïte ou restaurant Gion |
 
 ---
 
 ### Jour 7 — Samedi 18 juillet : Universal Studios Japan (Osaka)
 
-> ✅ Express Pass Nintendo World + Harry Potter **acheté!** · Samedi en juillet = achalandé · Arriver à l'ouverture!
+> ⚠️ Samedi en juillet = achalandé · **Express Pass Nintendo World + Harry Potter INDISPENSABLE** · Réserver Klook ou USJ officiel · Arriver à l'ouverture!
 
 | Heure | Activité |
 |-------|----------|
@@ -714,26 +753,26 @@ Couvre tram Hiroden + ferry Matsudai (Miyajima) + **-25% sur le téléphérique!
 | Logement Kamiochiai | 35.7117 | 139.6824 | tokyo1 | — | logement | — | — |
 | TeamLab Planets | 35.6491 | 139.7898 | tokyo1 | 2 | fun | teamLab Planets | Marcher pieds nus dans l'eau lumineuse; Admirer les hologrammes de fleurs géantes; Se perdre dans la salle des miroirs infinis; Explorer le jardin de mousse lumineux; Acheter un souvenir à la boutique TeamLab |
 | Takeshita Street Harajuku | 35.6710 | 139.7052 | tokyo1 | 2 | fun | Takeshita Street | Goûter une crêpe géante colorée; Chiner dans les boutiques de mode kawaii; Repérer les cosplayers du dimanche; Essayer un thé bulle ou une glace arc-en-ciel; Explorer les petites ruelles autour de Harajuku |
-| Café Capybara Moffu | 35.6709 | 139.7057 | tokyo1 | 2 | fun | — | Caresser et nourrir les capybaras; Prendre des photos avec les animaux; Commander un café à thème animal; Observer les autres petits mammifères du café; Acheter une peluche capybara en souvenir |
+| Cappiness Shinjuku | 35.6906 | 139.7001 | tokyo1 | 2 | fun | — | Caresser et nourrir les capybaras géants; Prendre des selfies avec les animaux; Commander un café à thème capybara; Observer les bébés capybaras; Acheter une peluche souvenir à la boutique |
 | Carrefour Shibuya | 35.6595 | 139.7005 | tokyo1 | 2 | fun | Shibuya Crossing | Traverser le passage piéton le plus fréquenté du monde; Admirer la vue depuis le Shibuya Sky; Voir la statue du chien Hachiko; Faire du shopping dans le quartier de Shibuya; Prendre une photo de nuit avec les néons |
 | Shinjuku Gyoen | 35.6851 | 139.7100 | tokyo1 | 3 | nature | Shinjuku Gyoen National Garden | Pique-niquer sous les arbres du jardin; Admirer le jardin japonais traditionnel; Visiter la serre tropicale; Se promener dans le jardin à l'anglaise; Profiter du calme loin de l'agitation de Shinjuku |
 | Palais Impérial de Tokyo | 35.6852 | 139.7585 | tokyo1 | 3 | culture | Tokyo Imperial Palace | Se promener dans les jardins de l'Est du palais; Admirer les murs et douves historiques; Voir le pont Nijubashi; Découvrir l'architecture du palais impérial; Apprendre l'histoire de la famille impériale |
 | Douves du Palais Impérial | 35.6839 | 139.7531 | tokyo1 | 3 | nature | Tokyo Imperial Palace | Faire une promenade autour des douves; Observer les cygnes et oiseaux d'eau; Admirer les murs en pierre du château d'Edo; Profiter d'une balade à vélo le dimanche; Prendre des photos des tours de guet |
-| Sumo Hirakuza Ginza | 35.6734 | 139.7684 | tokyo1 | 3 | sport | — | Assister à une démonstration de sumo; Découvrir les techniques et règles du sumo; Voir des lutteurs s'entraîner de près; Poser pour une photo avec un lutteur; Déguster une collation traditionnelle sur place |
+| Spectacle Sumo Shinjuku Club | 35.7003 | 139.7010 | tokyo1 | 3 | sport | — | Assister à des vrais combats de sumo en direct; Prendre une photo avec les lutteurs (inclus!); Apprendre les rituels et techniques du sumo; Profiter du commentaire bilingue; Déguster des collations traditionnelles dans les gradins |
 | Parc Inokashira | 35.7001 | 139.5773 | tokyo1 | 4 | nature | Inokashira Park | Faire du pédalo en forme de cygne sur l'étang; Nourrir les carpes koï; Se promener dans la forêt du parc; Visiter le petit zoo du parc; Pique-niquer près de l'eau |
 | Quartier Kichijoji | 35.7036 | 139.5798 | tokyo1 | 4 | food | Kichijōji | Flâner dans les petites rues commerçantes; Déguster un ramen ou une gyoza locale; Explorer le marché couvert Harmonica Yokocho; Faire du shopping dans des boutiques vintage; Goûter une pâtisserie japonaise |
 | Musée Ghibli Mitaka | 35.6962 | 139.5704 | tokyo1 | 4 | anime | Ghibli Museum | Découvrir les décors des films du Studio Ghibli; Monter voir le robot géant sur le toit; Regarder un court-métrage exclusif au cinéma du musée; Explorer la bibliothèque et les expositions d'animation; Acheter des souvenirs uniques à la boutique |
+| Tosho-gu Nikko | 36.7585 | 139.5987 | tokyo1 | 4 | UNESCO | Nikkō Tōshō-gū | Admirer la somptueuse porte Yomeimon aux 5 000 sculptures; Se recueillir au mausolée du shogun Tokugawa Ieyasu; Voir les célèbres Trois Singes Sages; Visiter les allées de cèdres millénaires; Découvrir le sanctuaire Futarasan voisin |
+| Shinkyo Bridge Nikko | 36.7536 | 139.5951 | tokyo1 | 4 | culture | Shinkyo Bridge | Traverser le pont vermillon sacré sur la rivière Daiya; Prendre des photos de la montagne en arrière-plan; Découvrir la légende du serpent divin; Observer la rivière en contrebas; Acheter une amulette dans la boutique voisine |
 | Logement Higashiyama | 35.0115 | 135.7826 | kyoto | — | logement | — | — |
 | Fushimi Inari Taisha | 34.9677 | 135.7792 | kyoto | 6 | UNESCO | Fushimi Inari-taisha | Marcher sous les milliers de torii rouges; Grimper jusqu'au sommet de la montagne Inari; Repérer les statues de renards (kitsune); Acheter un omikuji (oracle écrit); Prendre des photos dans le tunnel de torii |
 | Kiyomizudera | 34.9947 | 135.7847 | kyoto | 6 | UNESCO | Kiyomizu-dera | Admirer la vue depuis la terrasse en bois; Boire l'eau de la cascade Otowa; Se promener dans le quartier historique de Sannenzaka; Visiter le sanctuaire Jishu dédié à l'amour; Voir le temple illuminé le soir (selon saison) |
 | Hard Rock Cafe Gion | 35.0030 | 135.7760 | kyoto | 6 | food | Gion, Kyoto | Goûter le burger signature Hard Rock dans un cadre machiya traditionnel; Acheter un pin's collector exclusif Kyoto; Admirer la déco rock mêlée à l'architecture japonaise; Faire une pause cocktail ou milkshake après la balade à Gion; Repartir avec un t-shirt souvenir Hard Rock Cafe Kyoto |
-| Kinkaku-ji | 35.0394 | 135.7292 | kyoto | 7 | UNESCO | Kinkaku-ji | Admirer le pavillon d'or se refléter dans l'étang; Se promener dans les jardins zen; Prendre une photo depuis le point de vue classique; Visiter le petit temple et jardin de thé; Acheter un porte-bonheur au sanctuaire |
-| Forêt de bambous Arashiyama | 35.0168 | 135.6713 | kyoto | 7 | nature | Arashiyama Bamboo Grove | Marcher dans l'allée de bambous géants; Visiter le temple Tenryu-ji voisin; Prendre le petit train Sagano Romantic; Faire une balade en bateau sur la rivière Hozu; Croiser des singes au parc Iwatayama |
+| Universal Studios Japan | 34.6657 | 135.4323 | kyoto | 7 | fun | Universal Studios Japan | Découvrir le monde de Super Nintendo World; Faire le grand huit de Hollywood Dream; Visiter le quartier de Harry Potter; Voir un spectacle ou une parade; Goûter une friandise à thème (donut Mario, etc.) |
+| Hard Rock Cafe Universal CityWalk Osaka | 34.6659 | 135.4336 | kyoto | 7 | food | Universal Studios Japan | Faire une pause repas avant ou après le parc; Repérer les guitares et costumes de stars exposés; Acheter un souvenir Hard Rock exclusif Osaka; Essayer un burger ou des ribs américains; Profiter de l'ambiance musicale animée de CityWalk |
 | Nara Park + Todai-ji | 34.6890 | 135.8398 | kyoto | 8 | UNESCO | Tōdai-ji | Nourrir les cerfs sacrés en liberté; Admirer le grand Bouddha du Todai-ji; Visiter le sanctuaire Kasuga Taisha; Se promener dans le parc parmi les lanternes de pierre; Goûter des mochis traditionnels de Nara |
 | Château Nijo | 35.0141 | 135.7484 | kyoto | 9 | UNESCO | Nijō Castle | Marcher sur les célèbres planchers chanteurs (nightingale floor); Admirer les peintures sur paravents anciens; Se promener dans les jardins du château; Découvrir l'histoire des shoguns Tokugawa; Observer les douves et remparts du château |
 | Philosopher's Path | 35.0215 | 135.7942 | kyoto | 9 | nature | Philosopher's Path | Se promener le long du canal bordé de cerisiers; Visiter de petits temples cachés sur le chemin; S'arrêter dans un café avec vue sur le canal; Acheter de l'artisanat dans les petites boutiques; Rejoindre le temple Ginkaku-ji au bout du chemin |
-| Universal Studios Japan | 34.6657 | 135.4323 | kyoto | 10 | fun | Universal Studios Japan | Découvrir le monde de Super Nintendo World; Faire le grand huit de Hollywood Dream; Visiter le quartier de Harry Potter; Voir un spectacle ou une parade; Goûter une friandise à thème (donut Mario, etc.) |
-| Hard Rock Cafe Universal CityWalk Osaka | 34.6659 | 135.4336 | kyoto | 10 | food | Universal Studios Japan | Faire une pause repas avant ou après le parc; Repérer les guitares et costumes de stars exposés; Acheter un souvenir Hard Rock exclusif Osaka; Essayer un burger ou des ribs américains; Profiter de l'ambiance musicale animée de CityWalk |
 | Logement Naka-ku Hiroshima | 34.3890 | 132.4580 | hiroshima | — | logement | — | — |
 | Dôme Genbaku | 34.3955 | 132.4534 | hiroshima | 11 | UNESCO | Hiroshima Peace Memorial | Observer le dôme préservé en mémoire de la bombe; Se recueillir au monument de la paix; Voir le Monument des enfants et les grues en origami; Marcher dans le parc commémoratif de la paix; Lire les panneaux explicatifs historiques |
 | Musée Mémorial de la Paix | 34.3953 | 132.4536 | hiroshima | 12 | culture | Hiroshima Peace Memorial Museum | Découvrir les expositions sur la bombe atomique; Voir les objets et témoignages des survivants; Apprendre l'histoire de la reconstruction d'Hiroshima; Visiter le parc commémoratif attenant; Assister à un témoignage si disponible |
