@@ -55,7 +55,7 @@ currency_rate_cad: 107
 | ✅ | **Permis de Conduire International (IDP)** | Avant le départ | Obtenu à la CAA · Obligatoire pour tous les conducteurs Okinawa |
 | ✅ | **USJ Express Pass** | Mar. 21 juil. | Confirmé! · Nintendo World + HP inclus |
 | ✅ | **Cappiness Shinjuku** (café capybara) | Lun. 13 juil. 17h15 | Confirmé! · Shinjuku · Slot 30 min |
-| ⚠️ | **Disney Sea** (remplace sumo annulé) | Mar. 14 juil. | Acheter billets en ligne · tokyodisneyresort.jp ou Klook · Ouvre 9h00 · Prévoir arrivée à l'ouverture |
+| ✅ | **Disney Sea** | Mar. 14 juil. | Billets achetés! |
 | ✅ | **Voiture de location Okinawa** | 24–28 juil. | Confirmée! · 2 véhicules · 4 jours (24–28 juil.) |
 | ⚠️ | **Bus Fujikyu → Kawaguchiko** | Mer. 29 juil. (si Plan A Fuji) | Si fuji-san.info ≥ 7 à 6h30 · ~1 750¥/pers AR |
 | ⚠️ | **Sumoan Kyoto** (spectacle sumo + chankonabe) | Ven. 17 juil. soir | Réserver à l'avance · sumoinkyoto.com · Central Kyoto · ~2h · Chankonabe inclus = dîner · 4.9★ |
@@ -78,36 +78,33 @@ currency_rate_cad: 107
 
 ---
 
-### Jour 1 — Dimanche 12 juillet : Arrivée à Tokyo + Shinjuku Gyoen
+### Jour 1 — Dimanche 12 juillet : Arrivée à Tokyo
 
 | Heure | Activité |
 |-------|----------|
 | 15h25 | ✈️ Arrivée Tokyo Narita (NRT) T1 — Vol AC5 Air Canada |
 | — | 🚇 **~55 min** · Keisei Skyliner NRT → Nippori (~41 min · 2 570¥) + JR Yamanote → Nakai · ~2 730¥/pers |
 | 17h30 | Installation logement Kamiochiai |
-| — | 🚶 **15 min à pied** · Logement → Shinjuku Gyoen |
-| 18h00 | 🌿 **Shinjuku Gyoen** — promenade carpes koï · ⚠️ Ferme à 18h30, dernière entrée 18h00 · entrée rapide! |
-| 18h45 | 🍚 Dîner léger : donburi ou gyudon du quartier |
+| 19h00 | 🍚 Dîner léger : donburi ou gyudon du quartier |
 | 21h00 | ⛔ Repos — récupération du décalage horaire |
 
 ---
 
-### Jour 2 — Lundi 13 juillet : TeamLab + Harajuku + Cappiness Shinjuku
+### Jour 2 — Lundi 13 juillet : TeamLab + Shinjuku Gyoen + Cappiness Shinjuku
 
-> ✅ TeamLab Planets billets réservés 10h00 · Cappiness Shinjuku confirmé 17h15 · Dîner Shinjuku · Carrefour Shibuya déplacé au Jour 17 (arrivée Tokyo II)
+> ✅ TeamLab Planets billets réservés 10h00 · Shinjuku Gyoen (carpes koï!) · Cappiness Shinjuku confirmé 17h15 · Tout dans le secteur Shinjuku l'après-midi
 
 | Heure | Activité |
 |-------|----------|
 | 09h00 | Départ logement |
 | — | 🚇 **55 min** · Nakai → Takadanobaba → Ikebukuro → Yurakucho Line → Toyosu · ~520¥/pers |
 | 10h00 | 🎨 **TeamLab Planets** (Toyosu) — billets réservés ✅ · visite ~2h30 |
-| 12h30 | 🍣 Déjeuner : sushi-train Toyosu · ~1h pour le groupe |
+| 12h30 | 🍣 Déjeuner : sushi-train Toyosu · ~1h |
 | 13h30 | Départ Toyosu |
-| — | 🚇 **35 min** · Yurikamome → Shimbashi → JR Yamanote → Harajuku Station · ~300¥/pers |
-| 14h05 | 🛍️ Takeshita Street Harajuku — crêpes, mode, pop culture |
-| 16h15 | Départ Harajuku |
-| — | 🚇 **10 min** · JR Yamanote Harajuku → Shinjuku · ~150¥/pers |
-| 16h30 | 🛍️ Shinjuku — shopping libre, Don Quijote, Kabukicho |
+| — | 🚇 **45 min** · Yurikamome → Shimbashi → JR Yamanote → Shinjuku + 15 min à pied → Shinjuku Gyoen · ~300¥/pers |
+| 14h15 | 🌿 **Shinjuku Gyoen** — jardins nationaux, carpes koï · visite ~1h45 |
+| 16h00 | Départ Shinjuku Gyoen |
+| — | 🚶 **15 min à pied** · Shinjuku Gyoen → Cappiness Shinjuku |
 | 17h15 | 🦔 **Cappiness Shinjuku** ✅ — café capybara, slot 30 min confirmé |
 | 18h00 | 🍢 Dîner Shinjuku : yakitori Omoide Yokocho ou ramen Fuunji |
 | — | 🚇 **15 min** · Shinjuku → Kamiochiai logement · ~150¥/pers |
@@ -220,24 +217,26 @@ currency_rate_cad: 107
 
 ---
 
-### Jour 5 — Jeudi 16 juillet : Meiji Jingu + Omotesando + Palais Impérial + Départ Kyoto
+### Jour 5 — Jeudi 16 juillet : Meiji Jingu + Takeshita Street + Omotesando + Palais Impérial + Départ Kyoto
 
-> Activités le matin · Départ logement à 11h avec les valises · Coin lockers à Tokyo Station (niveau B1, côté Yaesu) · Palais Impérial à 5 min à pied de Tokyo Station · Shinkansen 15h30 ✅
+> ✅ Meiji Jingu et Takeshita Street sont côte à côte à Harajuku — sortie nord du sanctuaire = 2 min à pied du début de Takeshita · Cluster parfait sans transport supplémentaire
+> Départ logement à 11h avec les valises · Coin lockers Tokyo Station · Palais Impérial à 5 min de Tokyo Station · Shinkansen 15h30
 
 | Heure | Activité |
 |-------|----------|
 | 08h00 | Départ logement |
-| — | 🚇 **20 min** · Nakai → Omotesando |
+| — | 🚇 **20 min** · Nakai → Harajuku/Omotesando |
 | 08h20 | ⛩️ **Meiji Jingu** — sanctuaire shinto, forêt urbaine 70 ha · ~1h |
-| 09h30 | 🏛️ **Omotesando Hills** — boutiques, architecture Tadao Ando |
-| 10h30 | 🍤 Déjeuner rapide : tempura Tenya ou bento Omotesando |
-| 11h00 | Retour logement · récupérer les valises |
-| 11h15 | **2 taxis** avec toutes les valises → Tokyo Station · ~20 min |
-| 11h40 | **Tokyo Station** · déposer valises aux coin lockers (niveau B1 Yaesu, grands casiers ~700¥) |
-| 12h00 | 👑 **Palais Impérial de Tokyo** — Higashi-Gyoen (entrée gratuite) · carpes koï dans les douves! · ~1h30 |
+| — | 🚶 **2 min à pied** · Sortie nord Meiji Jingu → Takeshita Street (JR Harajuku Station) |
+| 09h30 | 🛍️ **Takeshita Street** — crêpes, mode pop culture, boutiques décalées · ~45 min |
+| 10h15 | 🏛️ **Omotesando Hills** — boutiques, architecture Tadao Ando · ~30 min |
+| 10h45 | Retour logement · récupérer les valises |
+| 11h05 | **2 taxis** avec toutes les valises → Tokyo Station · ~20 min |
+| 11h30 | **Tokyo Station** · déposer valises aux coin lockers (niveau B1 Yaesu, grands casiers ~700¥) |
+| 11h45 | 👑 **Palais Impérial de Tokyo** — Higashi-Gyoen (entrée gratuite) · carpes koï dans les douves! · ~1h30 |
 | — | 🚶 **5 min à pied** · Palais Impérial → Tokyo Station |
-| 13h30 | 🍱 Déjeuner Tokyo Station : restaurants niveau B1 (Ramen Street, Granchef) |
-| 14h45 | Récupérer valises · plateforme Shinkansen |
+| 13h15 | 🍱 Déjeuner Tokyo Station : restaurants niveau B1 (Ramen Street, Granchef) |
+| 14h30 | Récupérer valises · plateforme Shinkansen |
 | 15h30 | 🚄 **Shinkansen Hikari** Tokyo → Kyoto (~2h30) · ⚠️ Réserver sièges 特大荷物 pour grandes valises |
 | 18h00 | Arrivée Kyoto, installation Higashiyama-ku |
 | 19h30 | 🍱 Dîner kaiseki léger du quartier |
@@ -275,9 +274,9 @@ currency_rate_cad: 107
 | — | 🚶 **10 min à pied** → Gion |
 | 18h00 | 🏮 **Gion** — Hanamikoji · soir de Gion Matsuri = atmosphère magique! · balade ~30 min |
 | — | 🚕 **10 min taxi** · Gion → Sumoan Kyoto (central Kyoto) · ~800¥ |
-| 19h00 | 🏋️ **Sumoan Kyoto** — spectacle sumo · ex-professionnels rikishi · cérémonie, combats, défi dans le ring · 4.9★ · **réserver à l'avance sur sumoinkyoto.com** |
-| 20h00 | 🍲 **Chankonabe** — soupe traditionnelle des lutteurs incluse dans le billet · **= dîner!** |
-| 21h00 | Fin du spectacle |
+| 18h00 | 🏋️ **Sumoan Kyoto** ✅ — spectacle sumo · ex-professionnels rikishi · cérémonie, combats, défi dans le ring · 4.9★ |
+| 19h00 | 🍲 **Chankonabe** — soupe traditionnelle des lutteurs incluse dans le billet · **= dîner!** |
+| 20h00 | Fin du spectacle |
 | — | 🚶 **20 min à pied** ou 🚕 **10 min** · Sumoan Kyoto → logement Higashiyama |
 
 ---
@@ -339,19 +338,13 @@ currency_rate_cad: 107
 
 ---
 
-### Jour 9 — Lundi 20 juillet : Fushimi Inari + Château Nijo + Philosopher's Path + Ginkaku-ji + Heian-Jinju
+### Jour 9 — Lundi 20 juillet : Château Nijo + Philosopher's Path + Ginkaku-ji + Heian-Jinju + Fushimi Inari (soirée)
 **(Umi no Hi — Jour Férié)**
 
-> ⚠️ Marine Day = très achalandé · Fushimi Inari à l'aube avant les foules du férié · Visites calmes ensuite
+> ⚠️ Marine Day = très achalandé · Matin détendu · Fushimi Inari déplacé en **fin de journée** : les foules du férié s'évaporent après 17h, et les torii en lumière dorée au coucher du soleil sont spectaculaires!
 
 | Heure | Activité |
 |-------|----------|
-| 06h00 | Départ logement |
-| — | 🚇 **15 min** · Keihan → Fushimi-Inari Station · ~280¥/pers |
-| 06h30 | ⛩️ **Fushimi Inari Taisha** (UNESCO) — tunnels torii à l'aube, lumière dorée · 1h30 |
-| 08h00 | Départ Fushimi Inari |
-| — | 🚇 **30 min** · Keihan → logement · ~280¥/pers |
-| 08h30 | Petit-déjeuner logement |
 | 09h00 | Départ logement |
 | — | 🚌 **30 min** · Bus → Nijojo-mae · ~250¥/pers (Pass Bus recommandé) |
 | 09h30 | 🏯 **Château Nijo** (UNESCO) — planchers rossignol · 1h30 |
@@ -363,8 +356,11 @@ currency_rate_cad: 107
 | 15h30 | 🏯 **Ginkaku-ji** (Pavillon d'Argent, UNESCO) — au bout du Philosopher's Path · 1h |
 | — | 🚌 **10 min** · Bus → Heian-Jinju area |
 | 17h00 | ⛩️ **Heian-Jinju** — immense sanctuaire vermillon, jardins · 45 min |
-| — | 🚶 **20 min à pied** ou 🚌 → logement Higashiyama |
-| 19h30 | 🍜 Dîner : soba artisanal |
+| — | 🚇 **25 min** · Keihan depuis Sanjo → Fushimi-Inari Station · ~250¥/pers |
+| 18h15 | ⛩️ **Fushimi Inari Taisha** (UNESCO) — tunnels torii en lumière dorée de fin de journée · Ouvert 24h · Foules dissipées après 17h! · 1h |
+| 19h15 | Départ Fushimi Inari |
+| — | 🚇 **30 min** · Keihan → logement Higashiyama · ~280¥/pers |
+| 20h00 | 🍜 Dîner : soba artisanal ou izakaya du quartier |
 
 ---
 
@@ -851,7 +847,7 @@ Couvre tram Hiroden + ferry Matsudai (Miyajima) + **-25% sur le téléphérique!
 | Animal | Où | Jour |
 |--------|-----|------|
 | **Tanuki** 🦝 | Zoo Ueno (zone animaux japonais) | Mer. 29 juil. (Plan A: jeu. 30) |
-| **Carpes koï** 🐟 | Shinjuku Gyoen | Dim. 12 juil. (arrivée) |
+| **Carpes koï** 🐟 | Shinjuku Gyoen | Lun. 13 juil. |
 | **Carpes koï** 🐟 | Parc Inokashira (Mitaka) | Mer. 15 juil. |
 | **Carpes koï** 🐟 | Étang Sarusawa (Nara, Kōfuku-ji) | Dim. 19 juil. |
 | **Carpes koï** 🐟 | Étang Shinobazu (Ueno Park) | Mer. 29 ou Jeu. 30 juil. |
@@ -868,9 +864,9 @@ Couvre tram Hiroden + ferry Matsudai (Miyajima) + **-25% sur le téléphérique!
 | Lieu | Lat | Lng | Ville | Jour | Tag | Wiki | Top5 |
 |------|-----|-----|-------|------|-----|------|------|
 | Logement Kamiochiai | 35.7117 | 139.6824 | tokyo1 | — | logement | — | — |
-| Shinjuku Gyoen | 35.6851 | 139.7100 | tokyo1 | 1 | nature | Shinjuku Gyoen National Garden | Pique-niquer sous les arbres du jardin; Admirer le jardin japonais traditionnel; Observer les carpes koï dans les étangs; Visiter la serre tropicale; Profiter du calme loin de l'agitation de Shinjuku |
+| Shinjuku Gyoen | 35.6851 | 139.7100 | tokyo1 | 2 | nature | Shinjuku Gyoen National Garden | Pique-niquer sous les arbres du jardin; Admirer le jardin japonais traditionnel; Observer les carpes koï dans les étangs; Visiter la serre tropicale; Profiter du calme loin de l'agitation de Shinjuku |
 | TeamLab Planets | 35.6491 | 139.7898 | tokyo1 | 2 | fun | teamLab Planets | Marcher pieds nus dans l'eau lumineuse; Admirer les hologrammes de fleurs géantes; Se perdre dans la salle des miroirs infinis; Explorer le jardin de mousse lumineux; Acheter un souvenir à la boutique TeamLab |
-| Takeshita Street Harajuku | 35.6710 | 139.7052 | tokyo1 | 2 | fun | Takeshita Street | Goûter une crêpe géante colorée; Chiner dans les boutiques de mode kawaii; Repérer les cosplayers du dimanche; Essayer un thé bulle ou une glace arc-en-ciel; Explorer les petites ruelles autour de Harajuku |
+| Takeshita Street Harajuku | 35.6710 | 139.7052 | tokyo1 | 5 | fun | Takeshita Street | Goûter une crêpe géante colorée; Chiner dans les boutiques de mode kawaii; Repérer les cosplayers du dimanche; Essayer un thé bulle ou une glace arc-en-ciel; Explorer les petites ruelles autour de Harajuku |
 | Cappiness Shinjuku | 35.6906 | 139.7001 | tokyo1 | 2 | fun | — | Caresser et nourrir les capybaras géants; Prendre des selfies avec les animaux; Commander un café à thème capybara; Observer les bébés capybaras; Acheter une peluche souvenir à la boutique |
 | Tokyo DisneySea | 35.6267 | 139.8850 | tokyo1 | 3 | fun | Tokyo DisneySea | Attaquer Journey to the Center of the Earth à l'ouverture; Faire Toy Story Mania et Soaring avec FastPass; Déjeuner au restaurant du volcan Magellan's; Voir le spectacle Believe! Sea of Dreams; Profiter du spectacle nocturne sur la lagune |
 | Parc Inokashira | 35.7001 | 139.5773 | tokyo1 | 4 | nature | Inokashira Park | Faire du pédalo en forme de cygne sur l'étang; Nourrir les carpes koï; Se promener dans la forêt du parc; Visiter le petit zoo du parc; Pique-niquer près de l'eau |
